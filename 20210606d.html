@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="utf-8">
+    <title>F# 函数式编程之 - 乾坤大挪移</title>
+  </head>
+  <body style='font-family: "Palatino Linotype", Palatino, Palladio, Baskerville, sans-serif;'>
+
+    <h1>F# 函数式编程之 - 乾坤大挪移</h1>
+
+    <p>标题所说的 “乾坤大挪移” 是个夸张的说法，其实本文只是讲讲两种 “小挪移”。</p>
+
+    <h2>第一种挪移</h2>
+    <p>将面向对象编程中的 “对象” 换个位置，使其变成函数式编程中的函数的 "参数", 以便符合 F# 的编程风格。</p>
+    <p>能进行这种挪移的原因是: F# 虽然以函数式为主，但已经被扩充成也支持对象（虽然不是 “纯函数式” 听起来不够酷，但更实用更好用了，如果 F# 是纯函数式我反而没兴趣）。</p>
+    <p>在 F# 里，字符串是对象，它有方法：</p>
+
+    <pre><code>
+    let hello = "hejjo".Replace("j", "l")
+    </code></pre>
+
+    <p>但这样操作，很不 F#, 函数式编程的感觉出不来，所以我们下面来进行挪移：</p>
+    <pre><code>
+    let replace oldStr newStr (s:string) = 
+      s.Replace(oldValue=oldStr, newValue=newStr)
+    </code></pre>
+
+    <p>这样我们得到了一个函数 replace, 它可以用 F# 的风格来操作：</p>
+    <pre><code>
+    "hejjo" |> replace "j" "l"
+    </code></pre>
+
+    <p>特别是与其他函数配合时，就更能体现 F# 风格的优雅：</p>
+    <pre><code>
+    <i>// 例子出处: https://fsharpforfunandprofit.com/posts/partial-application/</i>
+
+    let replace oldStr newStr (s:string) = 
+      s.Replace(oldValue=oldStr, newValue=newStr)
+
+    let startsWith lookFor (s:string) = 
+      s.StartsWith(lookFor)
+
+    let result = 
+        "hello" 
+        |> replace "h" "j" 
+        |> startsWith "j"
+
+    ["the"; "quick"; "brown"; "fox"] 
+        |> List.filter (startsWith "f")
+
+    let compositeOp = replace "h" "j" >> startsWith "j"
+    let result = compositeOp "hello"
+    </code></pre>
+
+    <h2>第二种挪移</h2>
+    <p>在上一篇文章 <a href="20210606c.html" target="_blank">F# 函数式编程之 - 柯里化 currying</a> 中我们说过 "<u>加号 <code>+</code> 本质上是一个函数, 而 <code>x + y</code> 其实是 <code>(+) x y</code> 的语法糖</u>", 在上面的代码里, <code>|></code> 本质上也是一个函数，它的定义是：</p>
+
+    <pre><code>
+    let (|>) x fn = fn x
+    </code></pre>
+
+    <p>可见，它的作用只是简单地把函数 fn 的参数移到前面，加上类以于 <code>+</code> 号的语法糖，就形成了类似“管道”的功能，在上面的代码中我们已经看到，功能虽然简单，效果却很不错。</p>
+    <p>F# 甚至允许我们自己定义这种运算符，比如：</p>
+    <pre><code>
+    let (&lt;&lt;|) fn x = fn x
+    </code></pre>
+
+    <p>如上所示，我们自定义了一个 <mark><code>&lt;&lt;|</code></mark>, 它看起来作用不大，但它其实也很可爱，比如可以帮我们省略括号：</p>
+    <pre><code>
+    printf "%i" 1+2     // error
+    printf "%i" (1+2)   // ok, using parens
+    printf "%i" &lt;&lt;| 1+2 // 也ok
+    </code></pre>
+
+    <p>F# 已经自带了 <code>&lt;|</code>, 其定义与 <code>&lt;&lt;|</code> 完全一样，我在上面使用 <code>&lt;&lt;|</code> 只是为了说明 F# 允许用户自己定义运算符。</p>
+    <p>本文介绍了 F# 的两种 “小挪移”，一种是使对象变得更函数化，另一种是实现类似“管道”的功能，都是能让代码更优雅的小技巧。</p>
+
+    <footer style="margin: 50px 0 50px 0; text-align: center;">
+      <a href="20210606c.html" title="上一页(previous)">←←</a>
+      <a href="index.html" title="index" style="text-decoration: none;">〇</a>
+      <a title="下一页(next)">→→</a>  
+    </footer>
+
+  </body>
+</html>
