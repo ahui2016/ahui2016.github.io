@@ -1,0 +1,40 @@
+{
+  "name": "ahui2016.github.io",
+  "email": "",
+  "avatar": "https://i.loli.net/2021/09/18/KCu2tndmorMUQeZ.jpg",
+  "link": "https://ahui2016.github.io/",
+  "messages": [
+    {
+      "time": 1631955067,
+      "body": "2020-12-09 函数式编程逸闻之 - 天生无null https://ahui2016.github.io/20210607c.html"
+    },
+    {
+      "time": 1631955024,
+      "body": "2020-12-09 F# 函数式编程之 - unpacking/deconstruct https://ahui2016.github.io/20210607b.html"
+    },
+    {
+      "time": 1631955002,
+      "body": "2020-12-08 F# 函数式编程之 - 一个例子 https://ahui2016.github.io/20210607a.html"
+    },
+    {
+      "time": 1631954974,
+      "body": "2020-12-03 F# 函数式编程之 - 乾坤大挪移 https://ahui2016.github.io/20210606d.html"
+    },
+    {
+      "time": 1631954955,
+      "body": "2020-12-02 F# 函数式编程之 - 柯里化 currying https://ahui2016.github.io/20210606c.html"
+    },
+    {
+      "time": 1631954939,
+      "body": "2020-12-01 F# 函数式编程之 - 前所未见的 unit 类型 https://ahui2016.github.io/20210606b.html"
+    },
+    {
+      "time": 1631954907,
+      "body": "2020-12-01 初尝 F# 函数式编程之 \"用递归实现循环\" https://ahui2016.github.io/20210606a.html"
+    },
+    {
+      "time": 1631954281,
+      "body": "My Blog创建于2021年9月18日"
+    }
+  ]
+}
