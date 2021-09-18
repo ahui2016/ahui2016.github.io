@@ -4,9 +4,14 @@
     <meta charset="utf-8">
     <title>F# 函数式编程之 - unpacking/deconstruct</title>
   </head>
-  <body style='font-family: "Palatino Linotype", Palatino, Palladio, Baskerville, sans-serif;'>
+  <body>
 
     <h1>F# 函数式编程之 - unpacking/deconstruct</h1>
+
+    <p style="text-align: right;"><i>
+      Author: 102419@gmail.com<br>
+      Created at: 2020-12-09
+    </i></p>
 
     <p>unpacking/deconstruct 这个特性我觉得也比较新鲜，以前没有见过，先看代码吧：</p>
 
@@ -41,10 +46,10 @@
 
     <ol>
       <li>
-        <p>限定了该参数的类型是 <code>Dollar</code>, 如果输入一个 int 或别的类型，会报错，从而确保了类型安全。</p>
+        <p>限定了该参数的类型是 <code>Dollar</code>, 如果输入一个 <code>int</code> 或别的类型，会报错，从而确保了类型安全。</p>
       </li>
       <li>
-        <p>unpacking/deconstruct, “顺便” 从这个参数里把 <code>Dollar</code> 的内涵数据 int 给解构出来了。</p>
+        <p>unpacking/deconstruct, “顺便” 从这个参数里把 <code>Dollar</code> 的内涵数据 <code>int</code> 给解构出来了。</p>
       </li>
     </ol>
 

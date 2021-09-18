@@ -4,9 +4,14 @@
     <meta charset="utf-8">
     <title>F# 函数式编程之 - 乾坤大挪移</title>
   </head>
-  <body style='font-family: "Palatino Linotype", Palatino, Palladio, Baskerville, sans-serif;'>
+  <body>
 
     <h1>F# 函数式编程之 - 乾坤大挪移</h1>
+
+    <p style="text-align: right;"><i>
+      Author: 102419@gmail.com<br>
+      Created at: 2020-12-03
+    </i></p>
 
     <p>标题所说的 “乾坤大挪移” 是个夸张的说法，其实本文只是讲讲两种 “小挪移”。</p>
 
@@ -53,7 +58,7 @@
     </code></pre>
 
     <h2>第二种挪移</h2>
-    <p>在上一篇文章 <a href="20210606c.html" target="_blank">F# 函数式编程之 - 柯里化 currying</a> 中我们说过 "<u>加号 <code>+</code> 本质上是一个函数, 而 <code>x + y</code> 其实是 <code>(+) x y</code> 的语法糖</u>", 在上面的代码里, <code>|></code> 本质上也是一个函数，它的定义是：</p>
+    <p>在上一篇文章 <a href="20210606c.html" target="_blank">F# 函数式编程之 - 柯里化 currying</a> 中我们说过 "<code>加号 + 本质上是一个函数, 而 x + y 其实是 (+) x y 的语法糖</code>", 在上面的代码里, <code>|></code> 本质上也是一个函数，它的定义是：</p>
 
     <pre><code>
     let (|>) x fn = fn x
