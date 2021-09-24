@@ -2,18 +2,27 @@
 <html lang="zh-Hans">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="style.css">
-    <title>初尝 F# 函数式编程之 "用递归实现循环"</title>
+    <title>初尝 F# 函数式编程之 "用递归实现循环" (旧版)</title>
   </head>
   <body>
 
-    <h1>初尝 F# 函数式编程之 "用递归实现循环"</h1>
+    <h1>初尝 F# 函数式编程之 "用递归实现循环" (旧版)</h1>
 
     <p style="text-align: right;"><i>
       Author: 102419@gmail.com<br>
       Created at: 2020-12-01
     </i></p>
+
+    <br>
+    <br>
+    <br>
+    <p>本页面是旧版（旧样式风格），专门保留用来与 <a href="20210606a.html" target="_blank">新版</a> 对比。<br>
+      旧版用纯 HTML 制作, CSS 含量为零, 当然也没有 dark mode。<br>
+      新版加了少量 CSS (真的很少), 并且能跟随系统自动切换 dark mode。<br>
+    </p>  
+    <br>
+    <br>
+    <br>
 
     <p>原教程在这里 <a href="https://fsharpforfunandprofit.com/posts/designing-for-correctness/" target="_blank">https://fsharpforfunandprofit.com/posts/designing-for-correctness/</a></p>
     <p>但下面的内容是我在原教程的基础上自己添加的，原教程里没有下面的内容。</p>
@@ -91,11 +100,16 @@
 	<p>仔细看上面的代码可以发现，类型声明被集中到 add 函数里了，其他函数就可以自动推导。而且利用 List.fold 时，连 action 函数都省了，因为碰巧与 add 一样。（另外，根据 ScottW 的说法，更推荐用 List.fold 而不是递归）</p>
 	<p>使用这个小小的技巧，结果明显优雅了很多。</p>
 
-  <div style="margin: 50px 0; text-align: center; font-size: larger;">
+  <br>
+  <br>
+  <div>
     <a title="上一页(previous)">←←</a>
     <a href="index.html" title="index">〇</a>
-    <a href="20210606b.html" title="下一页(next)">→→</a>
+    <a href="20210606a.html" title="下一页(next)">→→</a>
   </div>
+  <br>
+  <br>
+  <br>
 
   </body>
 </html>

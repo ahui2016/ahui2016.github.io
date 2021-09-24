@@ -5,6 +5,10 @@ body {
   line-height: 1.5;
 }
 
+a {
+  text-decoration: none;
+}
+
 pre {
   overflow-x: auto;
 }  
@@ -19,7 +23,15 @@ mark {
     color: #454545;
     background-color: #fefefe;
   }
-  
+
+  a:link {
+    color:#1864ab;
+  }
+
+  a:visited {
+    color:#1864ab;
+  }
+
   pre {
     background-color: #fafafa;
   }  
@@ -40,10 +52,10 @@ mark {
   }
 
   a:link {
-    color:#74c0fc
+    color:#a5d8ff;
   }
-
+  
   a:visited {
-    color:#d0bfff
+    color:#a5d8ff;
   }
 }
