@@ -2,17 +2,9 @@
 <html lang="zh-Hans">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
     <title>初尝 F# 函数式编程之 "用递归实现循环"</title>
-    <style>
-      body {
-        font-size: 16px;
-        margin: 40px auto;
-        max-width: 650px;
-        padding: 0 10px;
-        color: #444;
-        background-color: #FeFeFe;
-      }
-    </style>
   </head>
   <body>
 
@@ -99,7 +91,7 @@
 	<p>仔细看上面的代码可以发现，类型声明被集中到 add 函数里了，其他函数就可以自动推导。而且利用 List.fold 时，连 action 函数都省了，因为碰巧与 add 一样。（另外，根据 ScottW 的说法，更推荐用 List.fold 而不是递归）</p>
 	<p>使用这个小小的技巧，结果明显优雅了很多。</p>
 
-  <div style="margin-top: 50px; text-align: center; font-size: 24px;">
+  <div style="margin: 50px 0; text-align: center; font-size: larger;">
     <a title="上一页(previous)">←←</a>
     <a href="index.html" title="index" style="text-decoration: none;">〇</a>
     <a href="20210606b.html" title="下一页(next)">→→</a>

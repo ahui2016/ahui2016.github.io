@@ -1,0 +1,49 @@
+body {
+  max-width: 680px;
+  padding: 0 10px;
+  margin: 40px auto;
+  line-height: 1.5;
+}
+
+pre {
+  overflow-x: auto;
+}  
+
+mark {
+  color: #454545;
+  background-color: #ffec99;
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    color: #454545;
+    background-color: #fefefe;
+  }
+  
+  pre {
+    background-color: #fafafa;
+  }  
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #d4d4d4;
+    background: #454545;
+  }
+
+  strong {
+    color: #e5e5e5;
+  }
+
+  pre {
+    background-color: #4e4e4e;
+  }
+
+  a:link {
+    color:#74c0fc
+  }
+
+  a:visited {
+    color:#d0bfff
+  }
+}
