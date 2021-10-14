@@ -14,49 +14,54 @@ pre {
   overflow-x: auto;
 }  
 
-mark {
-  color: #454545;
-  background-color: #ffec99;
-}
-
 @media (prefers-color-scheme: light) {
+  :root {
+    --background-color: #fefefe;
+    --default-color: #454545;
+  }
   body {
-    color: #454545;
-    background-color: #fefefe;
+    color: var(--default-color);
+    background-color: var(--background-color);
   }
 
-  a:link {
+  mark {
+    background-color: #ffec99;
+  }
+
+  a {
     color:#1864ab;
   }
-
-  a:visited {
-    color:#1864ab;
-  }
-
+  
   pre {
     background-color: #fafafa;
   }  
 }
 
 @media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #3f3f46;
+    --default-color: #a1a1aa;
+    --primary-color: #d4d4d8;
+  }
   body {
-    color: #d4d4d4;
-    background: #454545;
+    color: var(--default-color);
+    background-color: var(--background-color);
   }
 
   strong {
-    color: #e5e5e5;
+    color: var(--primary-color);
   }
 
   pre {
-    background-color: #4e4e4e;
+    background-color: #404040;
   }
 
-  a:link {
-    color:#a5d8ff;
+  mark {
+    color: var(--background-color);
+    background-color: #f59f00;
   }
   
-  a:visited {
-    color:#a5d8ff;
+  a {
+    color:#1098ad;
   }
 }
