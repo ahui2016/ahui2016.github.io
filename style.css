@@ -34,7 +34,11 @@ pre {
   
   pre {
     background-color: #fafafa;
-  }  
+  }
+
+  .DarkModeOnly {
+    display: none;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -63,5 +67,9 @@ pre {
   
   a {
     color:#1098ad;
+  }
+
+  .DarkModeOnly {
+    background-color: #404040;
   }
 }
