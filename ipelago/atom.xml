@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>快乐星球</title>
+  <link ref="self" href="https://2046.pages.dev/ipelago/atom.xml"/>
+  
+  <link ref="alternate" href="https://github.com/ahui2016"/>
+  
+  <updated>2022-03-29</updated>
+  <author>
+    <name>102419@gmail.com</name>
+  </author>
+  <id>f26bcdba12499709893248843024c3938403c083</id>
+
+  
+  <entry>
+    <id>1K61D-2022-03-29T18:26:29+08:00</id>
+    <published>2022-03-29T18:26:29+08:00</published>
+    <content type="text">听播客聊电影，说低水平电视剧主要讲故事，大量利用对白，很少利用镜头语言，而高水平电影则会有一些无对白的表演来表达，而且也会更注重意境而不是直白地讲故事。我认为小说也一样，低水平的小说主要是讲故事，而高水平的小说会非常灵活的运用文字写出甚至电影都很难表达意象。因此，在这个电影非常发达的时代，我仍然认为高水平的文学作品具有极大的魅力。</content>
+  </entry>
+  
+  <entry>
+    <id>1K61C-2022-03-29T18:15:58+08:00</id>
+    <published>2022-03-29T18:15:58+08:00</published>
+    <content type="text">SQLite is not a toy database https://antonz.org/sqlite-is-not-a-toy-database/ #sqlite</content>
+  </entry>
+  
+  <entry>
+    <id>1K61B-2022-03-29T18:14:58+08:00</id>
+    <published>2022-03-29T18:14:58+08:00</published>
+    <content type="text">图片压缩效果分析工具 图片压缩效果分析工具 https://ic-analyzer.kaciras.com/ https://github.com/Kaciras/ICAnalyzer https://v2ex.com/t/807801 #bookmark #图片处理</content>
+  </entry>
+  
+  <entry>
+    <id>1K61A-2022-03-29T18:13:29+08:00</id>
+    <published>2022-03-29T18:13:29+08:00</published>
+    <content type="text">流程图画图工具 https://excalidraw.com/ https://app.diagrams.net/ http://draw.io #bookmark #设计</content>
+  </entry>
+  
+  <entry>
+    <id>1K619-2022-03-29T18:12:26+08:00</id>
+    <published>2022-03-29T18:12:26+08:00</published>
+    <content type="text">SQLite Viewer Web App https://sqliteviewer.app/ 一个可以在浏览器里使用的 SQLite 数据库浏览工具。使用了浏览器的原生文件系统 API 来打开 .sqlite 文件。也可以作为 PWA 安装。 https://v2ex.com/t/835996 #sqlite</content>
+  </entry>
+  
+  <entry>
+    <id>1K618-2022-03-29T17:27:03+08:00</id>
+    <published>2022-03-29T17:27:03+08:00</published>
+    <content type="text">快速: ffmpeg -ss 00:01:00 -i input.mp4 -to 00:02:00 -c copy output.mp4 精准: ffmpeg -i movie.mp4 -ss 00:00:03 -to 00:00:08 -async 1 cut.mp4 参考: https://stackoverflow.com/questions/18444194/cutting-the-videos-based-on-start-and-end-time-using-ffmpeg #ffmpeg</content>
+  </entry>
+  
+  <entry>
+    <id>1K615-2022-03-29T11:18:12+08:00</id>
+    <published>2022-03-29T11:18:12+08:00</published>
+    <content type="text">我发现我写错了，不是世上，而是地上，于是我决定再给 AI 一次机会，结果它说 &#34;地上本没有路，没有路就不要走&#34;</content>
+  </entry>
+  
+  <entry>
+    <id>1K614-2022-03-29T11:17:44+08:00</id>
+    <published>2022-03-29T11:17:44+08:00</published>
+    <content type="text">笑死，我写 &#34;世上本没有路&#34; 让 AI 补全，它说 &#34;世上本没有路，只有一条路，那就是我的路&#34;。我多给一点提示 &#34;世上本没有路，走的人多了&#34;, 没想到它还是不乖，它说 &#34;世上本没有路，走的人多了，也没有路，就当走的人少了&#34;</content>
+  </entry>
+  
+  <entry>
+    <id>1K613-2022-03-29T11:17:15+08:00</id>
+    <published>2022-03-29T11:17:15+08:00</published>
+    <content type="text">最近忙着工作和写新的程序，没有时间回顾过去。</content>
+  </entry>
+  
+  <entry>
+    <id>1K612-2022-03-29T11:16:48+08:00</id>
+    <published>2022-03-29T11:16:48+08:00</published>
+    <content type="text">Netflix 科幻剧《寂静之海》裴斗娜 #书影音</content>
+  </entry>
+  
+  <entry>
+    <id>1K611-2022-03-29T11:15:48+08:00</id>
+    <published>2022-03-29T11:15:48+08:00</published>
+    <content type="text">“京挑客”（通过推广京东商品赚取佣金一类人的统称，例如宝妈、学生、上班族等等）如何翻译为外语？可以先把这
+种自造词转换成比较常见、比较容易理解的词，比如“佣金”和“赏金猎人”，然后根据这两个概念按照目标语言的造词
+方式造出类似“佣金猎人”的词，再可根据文章类型、读者类型等情况直接使用“佣金猎人”或音译加备注。 #翻译技巧</content>
+  </entry>
+  
+  <entry>
+    <id>1K6Z-2022-03-29T10:57:43+08:00</id>
+    <published>2022-03-29T10:57:43+08:00</published>
+    <content type="text">1. 今天看到两个男青年，为了其中一人先吃早餐（没等一起吃）而吵架，由于知道为这小事争吵显得太小气，于是发展为互相阴阳怪气，每句话都暗示这件事你都不懂、那件事你做得太蠢，后来不知道扯到哪里去了其中一人激动地提高音调说 “我是直男呀，我是钢铁直男啊”。 2. 他们走后，又看到一对父子，小孩不小心打翻豆浆洒了一身，父亲没有气急败坏地骂他，而是沉稳且麻利地给他擦干净，还不忘对旁边的人说对不起，把桌椅都擦干净了，这很罕见，通常家长都会忍不住骂小孩，并且忘记影响了旁人。#人间观察</content>
+  </entry>
+  
+  <entry>
+    <id>1K6Y-2022-03-29T10:57:21+08:00</id>
+    <published>2022-03-29T10:57:21+08:00</published>
+    <content type="text">直木奖，全称是「直木三十五賞」，其中“三十五”与创立者的年龄有关，该奖以故事性较强的作品为主，通常颁给名气不大的人，获奖者中女性占了不低的比例。 #知识点 #文学</content>
+  </entry>
+  
+  <entry>
+    <id>1K6W-2022-03-29T10:46:23+08:00</id>
+    <published>2022-03-29T10:46:23+08:00</published>
+    <content type="text">我用 Go 做一个修改文件名的功能，比如把 C:\aaa\bbb.txt 改成 C:\aaa\bbb111.txt (不是直接改，如果文件名冲突要不断加 &#39;1&#39;), 要自己拆分文件名再拼接，搞得很麻烦。现在用 Python 做，Python 标准库里就直接有这个（拆分文件名再拼接的）函数，让我小震惊了一下。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6U-2022-03-29T10:42:54+08:00</id>
+    <published>2022-03-29T10:42:54+08:00</published>
+    <content type="text">前几天开始用 Spotify, 第一次打开看到 My Generation &#39;90s 日语专辑，点开听，感觉好好听啊，然后每次想听歌就让 Spotify 接着上次的地方继续播放，就这样听了几天，非常舒服，都没有去选别的专辑。不知道要听多久才听腻呢。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6T-2022-03-29T10:42:42+08:00</id>
+    <published>2022-03-29T10:42:42+08:00</published>
+    <content type="text">突然发现了一个宝藏男孩：费曼！就是物理学那个费曼，他充满智慧，还很幽默，善于表达。一般大科学家虽然也学识渊博，但他自己懂，我比较笨就很难去听懂他们高深的语言。而费曼不仅自己懂，还能表达得让我这么笨的人也能多少学到一点东西，过程也不枯燥，反而很有趣。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6S-2022-03-29T10:42:21+08:00</id>
+    <published>2022-03-29T10:42:21+08:00</published>
+    <content type="text">第一次处理 YAML, 也是第一次用 Go 处理 YAML, Go 里大写字母开头的 struct 到了 YAML 里自动转换为小写就算了，连 struct 名称中间的大写也会自动转小写，加上我对 YAML 完全陌生，好一阵忙乱才搞清楚。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6R-2022-03-29T10:41:34+08:00</id>
+    <published>2022-03-29T10:41:34+08:00</published>
+    <content type="text">以前看过宗教故事说，亚当夏娃吃的禁果，就是智慧果，同时也是罪恶之果。当时看了觉得很奇怪，智慧怎么能等同罪恶呢？现在才明白，智商与罪恶的关系确实很大，低智商的动物行为完全遵从本性，无善恶之分；高智商才知道什么是对错，也才能明知是错而故意为之。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6Q-2022-03-29T10:41:10+08:00</id>
+    <published>2022-03-29T10:41:10+08:00</published>
+    <content type="text">现在网上发言以情绪为主，情绪太多了，大家都不爱讲逻辑，好像认为不带逻辑更酷，毒舌就是胜利，立场大于一切。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6P-2022-03-29T10:39:43+08:00</id>
+    <published>2022-03-29T10:39:43+08:00</published>
+    <content type="text">很长一段时间（可能有几年了）我放纵自己分散注意力不断刷网页，最近还放纵自己看短视频。 然而讽刺的是，最近看到一个短视频提醒观众不要放纵自己，不要沉迷短视频。 这是一种嘲讽，就像每一包香烟上都写着 &#34;吸烟有害健康&#34;, 好像在说即使告诉你又怎样，我就不信你能戒掉。这种嘲讽不是故意的，但一个人应该自觉羞愧。 因此，我决定，是时候控制，不要放纵了。 #提醒</content>
+  </entry>
+  
+  <entry>
+    <id>1K6J-2022-03-29T10:24:01+08:00</id>
+    <published>2022-03-29T10:24:01+08:00</published>
+    <content type="text">(2/2)再说回今天的事情，我在那个新流浪汉旁边坐了不久，他竟然嫌睡得不舒服，在沙发上躺下，鞋子还碰到了我的背包，我赶紧换了个位置。 没想到换位置不久，又遇到一个精神病人，而且比较特别，是一个大妈，还用儿童车推着一个小孩子，一边推着车走来走去一边骂骂咧咧，口齿不清地重复一句话（好像精神病人比较常见这个特征，口齿不清地重复同一句话，几乎没有间断地重复无数遍），只隐约听到 “……星期天……”，是骂人的语气，但看起来并不是与她推着的小孩子交流，也不是与任何人交流。清洁工和保安看她不正常，就连哄带骗把她送出门外。接着看见她进了隔壁的肯德基，很快又出来，走远了。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6I-2022-03-29T10:23:52+08:00</id>
+    <published>2022-03-29T10:23:52+08:00</published>
+    <content type="text">(1/2)今天早上去麦当劳，又遇到了一个流浪汉，昨天我来时他刚走，今天店里几乎满座，只好坐到他旁边。他趴在桌子上睡觉，身材高大偏胖。他有一辆共享单车载着少量行李，看起来是刚变成流浪汉不久。 我几乎每天都在麦当劳或图书馆之类的地方长时间逗留，见过不少流浪汉。流浪时间长了，基本上就不会进麦当劳，就算想进也会很快被赶出来。刚开始做流浪汉的人还会带着牙刷毛巾，到这些公共场所的洗手池洗漱，在麦当劳和图书馆都见过这种，通常保安会禁止他们洗漱。 精神病人我也见过不少，有一次被一个半疯半丐的人抢了我的薯饼。彻底的乞丐进店里我只见过一次，是在肯德基，一对乞丐母子，小乞丐甚至翻过柜台到里面抢钱去了，好像拿了几块钱就出来了，几年前的事情，现在记得不是很清楚，一阵闹哄哄之后他们母子就离开了。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6H-2022-03-29T10:23:23+08:00</id>
+    <published>2022-03-29T10:23:23+08:00</published>
+    <content type="text">昨天还比较充实，做了一点笔译，在论坛上和别人杠也畅快淋漓，自己的软件也做了一点小改进，还看了柯洁赢棋。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6G-2022-03-29T10:23:04+08:00</id>
+    <published>2022-03-29T10:23:04+08:00</published>
+    <content type="text">刚才我在B站搜生日VLOG, 按最新发布排序，震惊了，每一天的生日VLOG都有好几页！可以看到全国各地普通人的真实生活，用这些做素材绝对可以剪辑出一部记录片。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6F-2022-03-29T10:22:54+08:00</id>
+    <published>2022-03-29T10:22:54+08:00</published>
+    <content type="text">(2021年7月6日) 啊啊啊，久违的麦当劳（广州这边禁堂食一段时间），久违的偷听家长们、学生们聊天！</content>
+  </entry>
+  
+  <entry>
+    <id>1K6E-2022-03-29T10:22:37+08:00</id>
+    <published>2022-03-29T10:22:37+08:00</published>
+    <content type="text">偷听到家长说，孩子补习400元一个小时，一次两个小时。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6D-2022-03-29T10:22:22+08:00</id>
+    <published>2022-03-29T10:22:22+08:00</published>
+    <content type="text">初中女生聊天好快乐啊，就是那种天然的傻乐。两个初一女生坐在我旁边聊天，她们还懂一些简单的日语，还谈对伪娘的看法（说觉得很奇怪，看着是女生但她有那个东西）。有个小哥搭讪她们，好像速问速答，哪家中学、初一、今天开始放暑假都毫不犹豫就回答了。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6C-2022-03-29T10:21:29+08:00</id>
+    <published>2022-03-29T10:21:29+08:00</published>
+    <content type="text">连续6天忙工作，完全没有搞业余爱好的时间，但也在使用自己做的软件时发现了一个bug，趁今早有点时间赶紧修复了。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6B-2022-03-29T10:21:17+08:00</id>
+    <published>2022-03-29T10:21:17+08:00</published>
+    <content type="text">今日冷知识：biang字还分简繁体。</content>
+  </entry>
+  
+  <entry>
+    <id>1K6A-2022-03-29T10:20:43+08:00</id>
+    <published>2022-03-29T10:20:43+08:00</published>
+    <content type="text">打疫苗时医生问我几岁，我一时语塞，很久没有计算自己的年龄了…… 打完出来，在路边发现一家好看的人家。</content>
+  </entry>
+  
+
+</feed>
