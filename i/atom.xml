@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>iPelago</title>
-  <link ref="self" href="https://blog.ipelago.org/m/atom.xml"/>
+  <title>ipelago</title>
+  <link ref="self" href="https://blog.ai42.xyz/i/atom.xml"/>
   
   <link ref="alternate" href="https://github.com/ahui2016"/>
   
-  <updated>2022-03-29</updated>
+  <updated>2022-03-30</updated>
   <author>
     <name>102419@gmail.com</name>
   </author>
-  <id>8efed3b96b7ecaa6e8c5a02363e868b4b80976ef</id>
+  <id>771385a151c28330f34e2fe62a69da489b0faa0d</id>
 
   
   <entry>
