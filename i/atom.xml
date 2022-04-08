@@ -6,12 +6,24 @@
   
   <link ref="alternate" href="https://github.com/ahui2016"/>
   
-  <updated>2022-04-02</updated>
+  <updated>2022-04-08</updated>
   <author>
     <name>102419@gmail.com</name>
   </author>
   <id>771385a151c28330f34e2fe62a69da489b0faa0d</id>
 
+  
+  <entry>
+    <id>1K61X-2022-04-08T08:47:44+08:00</id>
+    <published>2022-04-08T08:47:44+08:00</published>
+    <content type="text">Add `txt alias -l/--list` 列出全部别名。 #my_project #txt-cli https://github.com/ahui2016/txt-cli</content>
+  </entry>
+  
+  <entry>
+    <id>1K61T-2022-04-04T11:31:31+08:00</id>
+    <published>2022-04-04T11:31:31+08:00</published>
+    <content type="text">#TIL 美国的阶级分隔已经达到如此程度，穷人、富人、中产三者之间各有各自做一切事的一套地方，互相几乎全无交集。富人不会去 costco, 不懂 bulk sale 好在哪，中产不去沃尔玛，想不起来 Great Value 是个什么牌子。美国的中产阶级穿得再休闲也会保证最基本的 decent, 不会是那种沃尔玛的花花绿绿松松垮垮风格。发达国家的阶级是可以明确通过衣着划分的。https://v2ex.com/t/844837</content>
+  </entry>
   
   <entry>
     <id>1K61R-2022-04-02T20:59:04+08:00</id>
@@ -182,18 +194,6 @@
     <id>1K6G-2022-03-29T10:23:04+08:00</id>
     <published>2022-03-29T10:23:04+08:00</published>
     <content type="text">刚才我在B站搜生日VLOG, 按最新发布排序，震惊了，每一天的生日VLOG都有好几页！可以看到全国各地普通人的真实生活，用这些做素材绝对可以剪辑出一部记录片。</content>
-  </entry>
-  
-  <entry>
-    <id>1K6F-2022-03-29T10:22:54+08:00</id>
-    <published>2022-03-29T10:22:54+08:00</published>
-    <content type="text">(2021年7月6日) 啊啊啊，久违的麦当劳（广州这边禁堂食一段时间），久违的偷听家长们、学生们聊天！</content>
-  </entry>
-  
-  <entry>
-    <id>1K6E-2022-03-29T10:22:37+08:00</id>
-    <published>2022-03-29T10:22:37+08:00</published>
-    <content type="text">偷听到家长说，孩子补习400元一个小时，一次两个小时。</content>
   </entry>
   
 
