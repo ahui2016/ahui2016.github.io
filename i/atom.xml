@@ -6,12 +6,35 @@
   
   <link ref="alternate" href="https://github.com/ahui2016"/>
   
-  <updated>2022-04-10T21:06:40+08:00</updated>
+  <updated>2022-04-22T08:45:41+08:00</updated>
   <author>
     <name>102419@gmail.com</name>
   </author>
   <id>771385a151c28330f34e2fe62a69da489b0faa0d</id>
 
+  
+  <entry>
+    <id>1K62V-2022-04-22T08:45:41+08:00</id>
+    <published>2022-04-22T08:45:41+08:00</published>
+    <content type="text">正在做一个静态博客生成器，可是最近工作忙拖慢了进度。</content>
+  </entry>
+  
+  <entry>
+    <id>1K62U-2022-04-21T11:06:21+08:00</id>
+    <published>2022-04-21T11:06:21+08:00</published>
+    <content type="text">手持两把锟斤拷，口中疾呼烫烫烫</content>
+  </entry>
+  
+  <entry>
+    <id>1K62S-2022-04-19T18:01:06+08:00</id>
+    <published>2022-04-19T18:01:06+08:00</published>
+    <content type="text">ZE3kr  https://v2ex.com/t/847765#reply40
+最便宜: Scaleway Stardust, 0.5GB RAM, 限速 100Mbps 不限流量
+性价比: BuyVM, 1GB RAM, 每月 CA$3.50, 1Gbps 不限流量
+国内网络好: AWS Lightsail, 0.5GB RAM, 每月$3.50, 限流量 1TB
+大内存: OVH VPS, 2GB RAM, 每月$3.5, 限速 100Mbps 不限流量，法兰克福可直连中国，但美国可能绕欧洲。
+#VPS #建站</content>
+  </entry>
   
   <entry>
     <id>1K625-2022-04-09T22:31:48+08:00</id>
@@ -176,24 +199,6 @@
     <id>1K6S-2022-03-29T10:42:21+08:00</id>
     <published>2022-03-29T10:42:21+08:00</published>
     <content type="text">第一次处理 YAML, 也是第一次用 Go 处理 YAML, Go 里大写字母开头的 struct 到了 YAML 里自动转换为小写就算了，连 struct 名称中间的大写也会自动转小写，加上我对 YAML 完全陌生，好一阵忙乱才搞清楚。</content>
-  </entry>
-  
-  <entry>
-    <id>1K6R-2022-03-29T10:41:34+08:00</id>
-    <published>2022-03-29T10:41:34+08:00</published>
-    <content type="text">以前看过宗教故事说，亚当夏娃吃的禁果，就是智慧果，同时也是罪恶之果。当时看了觉得很奇怪，智慧怎么能等同罪恶呢？现在才明白，智商与罪恶的关系确实很大，低智商的动物行为完全遵从本性，无善恶之分；高智商才知道什么是对错，也才能明知是错而故意为之。</content>
-  </entry>
-  
-  <entry>
-    <id>1K6Q-2022-03-29T10:41:10+08:00</id>
-    <published>2022-03-29T10:41:10+08:00</published>
-    <content type="text">现在网上发言以情绪为主，情绪太多了，大家都不爱讲逻辑，好像认为不带逻辑更酷，毒舌就是胜利，立场大于一切。</content>
-  </entry>
-  
-  <entry>
-    <id>1K6P-2022-03-29T10:39:43+08:00</id>
-    <published>2022-03-29T10:39:43+08:00</published>
-    <content type="text">很长一段时间（可能有几年了）我放纵自己分散注意力不断刷网页，最近还放纵自己看短视频。 然而讽刺的是，最近看到一个短视频提醒观众不要放纵自己，不要沉迷短视频。 这是一种嘲讽，就像每一包香烟上都写着 &#34;吸烟有害健康&#34;, 好像在说即使告诉你又怎样，我就不信你能戒掉。这种嘲讽不是故意的，但一个人应该自觉羞愧。 因此，我决定，是时候控制，不要放纵了。 #提醒</content>
   </entry>
   
 
