@@ -6,7 +6,7 @@
   
   <link ref="alternate" href="https://github.com/ahui2016"/>
   
-  <updated>2022-04-22T08:45:41+08:00</updated>
+  <updated>2022-04-24T17:26:20+08:00</updated>
   <author>
     <name>102419@gmail.com</name>
   </author>
@@ -14,9 +14,21 @@
 
   
   <entry>
-    <id>1K62V-2022-04-22T08:45:41+08:00</id>
-    <published>2022-04-22T08:45:41+08:00</published>
-    <content type="text">正在做一个静态博客生成器，可是最近工作忙拖慢了进度。</content>
+    <id>1K636-2022-04-24T17:26:20+08:00</id>
+    <published>2022-04-24T17:26:20+08:00</published>
+    <content type="text">工作持续忙碌。</content>
+  </entry>
+  
+  <entry>
+    <id>1K635-2022-04-24T13:50:21+08:00</id>
+    <published>2022-04-24T13:50:21+08:00</published>
+    <content type="text">Lemon / 米津玄師【日本の歌で日本語を勉強しよう 01】 https://www.youtube.com/watch?v=DdsFtjmSnak  #jp</content>
+  </entry>
+  
+  <entry>
+    <id>1K62X-2022-04-22T10:08:30+08:00</id>
+    <published>2022-04-22T10:08:30+08:00</published>
+    <content type="text">PS D:\shortcuts&gt; ago post 人生的意义就在于你是人。 - 莫言 #名言佳句</content>
   </entry>
   
   <entry>
@@ -187,18 +199,6 @@
     <id>1K6U-2022-03-29T10:42:54+08:00</id>
     <published>2022-03-29T10:42:54+08:00</published>
     <content type="text">前几天开始用 Spotify, 第一次打开看到 My Generation &#39;90s 日语专辑，点开听，感觉好好听啊，然后每次想听歌就让 Spotify 接着上次的地方继续播放，就这样听了几天，非常舒服，都没有去选别的专辑。不知道要听多久才听腻呢。</content>
-  </entry>
-  
-  <entry>
-    <id>1K6T-2022-03-29T10:42:42+08:00</id>
-    <published>2022-03-29T10:42:42+08:00</published>
-    <content type="text">突然发现了一个宝藏男孩：费曼！就是物理学那个费曼，他充满智慧，还很幽默，善于表达。一般大科学家虽然也学识渊博，但他自己懂，我比较笨就很难去听懂他们高深的语言。而费曼不仅自己懂，还能表达得让我这么笨的人也能多少学到一点东西，过程也不枯燥，反而很有趣。</content>
-  </entry>
-  
-  <entry>
-    <id>1K6S-2022-03-29T10:42:21+08:00</id>
-    <published>2022-03-29T10:42:21+08:00</published>
-    <content type="text">第一次处理 YAML, 也是第一次用 Go 处理 YAML, Go 里大写字母开头的 struct 到了 YAML 里自动转换为小写就算了，连 struct 名称中间的大写也会自动转小写，加上我对 YAML 完全陌生，好一阵忙乱才搞清楚。</content>
   </entry>
   
 
