@@ -6,12 +6,42 @@
   
   <link ref="alternate" href="https://github.com/ahui2016"/>
   
-  <updated>2022-04-24T17:26:20+08:00</updated>
+  <updated>2022-05-05T12:53:32+08:00</updated>
   <author>
     <name>102419@gmail.com</name>
   </author>
   <id>771385a151c28330f34e2fe62a69da489b0faa0d</id>
 
+  
+  <entry>
+    <id>1K63K-2022-05-05T12:53:32+08:00</id>
+    <published>2022-05-05T12:53:32+08:00</published>
+    <content type="text">先尝试在 Cloudflare 注册域名，但遇到了 Error: Domain registration is blocked for a few minutes pending an existing request. (Code: 10000) 搜索发现不少人遇到同样的问题，有人反映等了一天仍有问题。于是我去 namecheap 注册，过程很顺利，注册了 ai42.cc, 第一年约 ¥40, 续费约 ¥80。</content>
+  </entry>
+  
+  <entry>
+    <id>1K63J-2022-05-05T12:53:09+08:00</id>
+    <published>2022-05-05T12:53:09+08:00</published>
+    <content type="text">我的 ai42.xyz 域名即将到期, GoDaddy 去年收我 ¥100, 今年涨价到 ¥120, 我觉得不合理，而且也比 namecheap 贵。刚好我也想把 VPS 从 Vultr 转到 AWS Lightsail, 索性域名也注册一个新的吧。</content>
+  </entry>
+  
+  <entry>
+    <id>1K63I-2022-05-01T21:29:56+08:00</id>
+    <published>2022-05-01T21:29:56+08:00</published>
+    <content type="text">#my_project 开坑 ctt: command-line Time Tracker (命令行时间记录器)</content>
+  </entry>
+  
+  <entry>
+    <id>1K63G-2022-04-30T17:13:39+08:00</id>
+    <published>2022-04-30T17:13:39+08:00</published>
+    <content type="text">在线查毒 https://www.virustotal.com #安全 #antivirus</content>
+  </entry>
+  
+  <entry>
+    <id>1K639-2022-04-27T20:55:44+08:00</id>
+    <published>2022-04-27T20:55:44+08:00</published>
+    <content type="text">发表了文章《最近试用了 Helix 编辑器》 https://geeknote.net/SuperMild/posts/976 这个编辑器我一用就爱上了，这几天一直在用，连 VS Code 都没打开。</content>
+  </entry>
   
   <entry>
     <id>1K636-2022-04-24T17:26:20+08:00</id>
@@ -167,38 +197,6 @@
     <id>1K612-2022-03-29T11:16:48+08:00</id>
     <published>2022-03-29T11:16:48+08:00</published>
     <content type="text">Netflix 科幻剧《寂静之海》裴斗娜 #书影音</content>
-  </entry>
-  
-  <entry>
-    <id>1K611-2022-03-29T11:15:48+08:00</id>
-    <published>2022-03-29T11:15:48+08:00</published>
-    <content type="text">“京挑客”（通过推广京东商品赚取佣金一类人的统称，例如宝妈、学生、上班族等等）如何翻译为外语？可以先把这
-种自造词转换成比较常见、比较容易理解的词，比如“佣金”和“赏金猎人”，然后根据这两个概念按照目标语言的造词
-方式造出类似“佣金猎人”的词，再可根据文章类型、读者类型等情况直接使用“佣金猎人”或音译加备注。 #翻译技巧</content>
-  </entry>
-  
-  <entry>
-    <id>1K6Z-2022-03-29T10:57:43+08:00</id>
-    <published>2022-03-29T10:57:43+08:00</published>
-    <content type="text">1. 今天看到两个男青年，为了其中一人先吃早餐（没等一起吃）而吵架，由于知道为这小事争吵显得太小气，于是发展为互相阴阳怪气，每句话都暗示这件事你都不懂、那件事你做得太蠢，后来不知道扯到哪里去了其中一人激动地提高音调说 “我是直男呀，我是钢铁直男啊”。 2. 他们走后，又看到一对父子，小孩不小心打翻豆浆洒了一身，父亲没有气急败坏地骂他，而是沉稳且麻利地给他擦干净，还不忘对旁边的人说对不起，把桌椅都擦干净了，这很罕见，通常家长都会忍不住骂小孩，并且忘记影响了旁人。#人间观察</content>
-  </entry>
-  
-  <entry>
-    <id>1K6Y-2022-03-29T10:57:21+08:00</id>
-    <published>2022-03-29T10:57:21+08:00</published>
-    <content type="text">直木奖，全称是「直木三十五賞」，其中“三十五”与创立者的年龄有关，该奖以故事性较强的作品为主，通常颁给名气不大的人，获奖者中女性占了不低的比例。 #知识点 #文学</content>
-  </entry>
-  
-  <entry>
-    <id>1K6W-2022-03-29T10:46:23+08:00</id>
-    <published>2022-03-29T10:46:23+08:00</published>
-    <content type="text">我用 Go 做一个修改文件名的功能，比如把 C:\aaa\bbb.txt 改成 C:\aaa\bbb111.txt (不是直接改，如果文件名冲突要不断加 &#39;1&#39;), 要自己拆分文件名再拼接，搞得很麻烦。现在用 Python 做，Python 标准库里就直接有这个（拆分文件名再拼接的）函数，让我小震惊了一下。</content>
-  </entry>
-  
-  <entry>
-    <id>1K6U-2022-03-29T10:42:54+08:00</id>
-    <published>2022-03-29T10:42:54+08:00</published>
-    <content type="text">前几天开始用 Spotify, 第一次打开看到 My Generation &#39;90s 日语专辑，点开听，感觉好好听啊，然后每次想听歌就让 Spotify 接着上次的地方继续播放，就这样听了几天，非常舒服，都没有去选别的专辑。不知道要听多久才听腻呢。</content>
   </entry>
   
 
