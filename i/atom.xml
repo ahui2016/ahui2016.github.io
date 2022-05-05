@@ -2,16 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>ipelago</title>
-  <link ref="self" href="https://blog.ai42.xyz/i/atom.xml"/>
+  <link ref="self" href="https://blog.ai42.cc/i/atom.xml"/>
   
   <link ref="alternate" href="https://github.com/ahui2016"/>
   
-  <updated>2022-05-05T12:53:32+08:00</updated>
+  <updated>2022-05-05T18:48:58+08:00</updated>
   <author>
     <name>102419@gmail.com</name>
   </author>
-  <id>771385a151c28330f34e2fe62a69da489b0faa0d</id>
+  <id>5bc6c034c9b20bdaecc529eb263aeca929a9ae56</id>
 
+  
+  <entry>
+    <id>1K63L-2022-05-05T18:48:58+08:00</id>
+    <published>2022-05-05T18:48:58+08:00</published>
+    <content type="text">AWS Lightsail 竟然没有 Debian 11, 所以我现在用的是老掉牙的 Debian 10 (Buster)。</content>
+  </entry>
   
   <entry>
     <id>1K63K-2022-05-05T12:53:32+08:00</id>
@@ -191,12 +197,6 @@
     <id>1K613-2022-03-29T11:17:15+08:00</id>
     <published>2022-03-29T11:17:15+08:00</published>
     <content type="text">最近忙着工作和写新的程序，没有时间回顾过去。</content>
-  </entry>
-  
-  <entry>
-    <id>1K612-2022-03-29T11:16:48+08:00</id>
-    <published>2022-03-29T11:16:48+08:00</published>
-    <content type="text">Netflix 科幻剧《寂静之海》裴斗娜 #书影音</content>
   </entry>
   
 
