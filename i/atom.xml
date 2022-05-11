@@ -6,7 +6,7 @@
   
   <link ref="alternate" href="https://github.com/ahui2016"/>
   
-  <updated>2022-05-05T18:48:58+08:00</updated>
+  <updated>2022-05-11T13:07:38+08:00</updated>
   <author>
     <name>102419@gmail.com</name>
   </author>
@@ -14,9 +14,27 @@
 
   
   <entry>
-    <id>1K63L-2022-05-05T18:48:58+08:00</id>
-    <published>2022-05-05T18:48:58+08:00</published>
-    <content type="text">AWS Lightsail 竟然没有 Debian 11, 所以我现在用的是老掉牙的 Debian 10 (Buster)。</content>
+    <id>1K63X-2022-05-11T13:07:38+08:00</id>
+    <published>2022-05-11T13:07:38+08:00</published>
+    <content type="text">今天看到一句话 &#34;虽不能至，心向往之&#34;。 现在网上很多人都能看清现实，但也都很容易忘记自己 &#34;向往&#34; 的是什么，或者认为既然无法实现，那就索性也不向往了。但我还是认为，即使明知不可能，还是要向往，要明确自己向往的是什么。 #名言佳句</content>
+  </entry>
+  
+  <entry>
+    <id>1K63R-2022-05-08T00:10:30+08:00</id>
+    <published>2022-05-08T00:10:30+08:00</published>
+    <content type="text">#my_project #更新记录 pypelago v0.0.5  1.修复了订阅 news.ycombinator.com/rss 时解析日期格式失败的问题。 2.修复了 &#39;ago search -feeds&#39; 无结果时提示消息的一个小 bug。</content>
+  </entry>
+  
+  <entry>
+    <id>1K63N-2022-05-06T12:46:08+08:00</id>
+    <published>2022-05-06T12:46:08+08:00</published>
+    <content type="text">我把域名迁移到 Cloudflare 和把 VPS 迁移到 Lightsail 这两个计划都失败了，写了篇文章记录这个过程: https://geeknote.net/SuperMild/posts/1057</content>
+  </entry>
+  
+  <entry>
+    <id>1K63M-2022-05-05T21:26:37+08:00</id>
+    <published>2022-05-05T21:26:37+08:00</published>
+    <content type="text">五一假期的最后一天，我们把两张棉被、枕头、洗了两个被套和床垫全部拿到楼顶上去晒了。家里也搞大清洁，两个人一起去扔垃圾都要扔两趟，中午还炒了菜，晚上太累了就简单点吃泡面。突然我就开心起来了，最近很长时间我情绪都很差，就这一天特别开心。</content>
   </entry>
   
   <entry>
@@ -179,24 +197,6 @@
     <id>1K618-2022-03-29T17:27:03+08:00</id>
     <published>2022-03-29T17:27:03+08:00</published>
     <content type="text">快速: ffmpeg -ss 00:01:00 -i input.mp4 -to 00:02:00 -c copy output.mp4 精准: ffmpeg -i movie.mp4 -ss 00:00:03 -to 00:00:08 -async 1 cut.mp4 参考: https://stackoverflow.com/questions/18444194/cutting-the-videos-based-on-start-and-end-time-using-ffmpeg #ffmpeg</content>
-  </entry>
-  
-  <entry>
-    <id>1K615-2022-03-29T11:18:12+08:00</id>
-    <published>2022-03-29T11:18:12+08:00</published>
-    <content type="text">我发现我写错了，不是世上，而是地上，于是我决定再给 AI 一次机会，结果它说 &#34;地上本没有路，没有路就不要走&#34;</content>
-  </entry>
-  
-  <entry>
-    <id>1K614-2022-03-29T11:17:44+08:00</id>
-    <published>2022-03-29T11:17:44+08:00</published>
-    <content type="text">笑死，我写 &#34;世上本没有路&#34; 让 AI 补全，它说 &#34;世上本没有路，只有一条路，那就是我的路&#34;。我多给一点提示 &#34;世上本没有路，走的人多了&#34;, 没想到它还是不乖，它说 &#34;世上本没有路，走的人多了，也没有路，就当走的人少了&#34;</content>
-  </entry>
-  
-  <entry>
-    <id>1K613-2022-03-29T11:17:15+08:00</id>
-    <published>2022-03-29T11:17:15+08:00</published>
-    <content type="text">最近忙着工作和写新的程序，没有时间回顾过去。</content>
   </entry>
   
 
