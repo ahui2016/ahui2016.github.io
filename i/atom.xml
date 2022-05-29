@@ -6,12 +6,24 @@
   
   <link ref="alternate" href="https://github.com/ahui2016"/>
   
-  <updated>2022-05-17T20:29:05+08:00</updated>
+  <updated>2022-05-29T10:26:04+08:00</updated>
   <author>
     <name>102419@gmail.com</name>
   </author>
   <id>5bc6c034c9b20bdaecc529eb263aeca929a9ae56</id>
 
+  
+  <entry>
+    <id>1K64I-2022-05-29T10:26:04+08:00</id>
+    <published>2022-05-29T10:26:04+08:00</published>
+    <content type="text">人是动物。 #人间观察</content>
+  </entry>
+  
+  <entry>
+    <id>1K64H-2022-05-26T16:25:04+08:00</id>
+    <published>2022-05-26T16:25:04+08:00</published>
+    <content type="text">三十九岁的王心凌，现象级爆红，绝对是可以写入传播学教材的程度，我也简单记一笔吧。</content>
+  </entry>
   
   <entry>
     <id>1K64A-2022-05-17T20:29:05+08:00</id>
@@ -185,18 +197,6 @@
     <id>1K61F-2022-03-30T09:03:06+08:00</id>
     <published>2022-03-30T09:03:06+08:00</published>
     <content type="text">图片压缩效果分析工具 https://ic-analyzer.kaciras.com/ https://github.com/Kaciras/ICAnalyzer https://v2ex.com/t/807801 #bookmark #图片处理</content>
-  </entry>
-  
-  <entry>
-    <id>1K61D-2022-03-29T18:26:29+08:00</id>
-    <published>2022-03-29T18:26:29+08:00</published>
-    <content type="text">听播客聊电影，说低水平电视剧主要讲故事，大量利用对白，很少利用镜头语言，而高水平电影则会有一些无对白的表演来表达，而且也会更注重意境而不是直白地讲故事。我认为小说也一样，低水平的小说主要是讲故事，而高水平的小说会非常灵活的运用文字写出甚至电影都很难表达意象。因此，在这个电影非常发达的时代，我仍然认为高水平的文学作品具有极大的魅力。</content>
-  </entry>
-  
-  <entry>
-    <id>1K61C-2022-03-29T18:15:58+08:00</id>
-    <published>2022-03-29T18:15:58+08:00</published>
-    <content type="text">SQLite is not a toy database https://antonz.org/sqlite-is-not-a-toy-database/ #sqlite</content>
   </entry>
   
 
