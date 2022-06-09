@@ -6,12 +6,42 @@
   
   <link ref="alternate" href="https://github.com/ahui2016"/>
   
-  <updated>2022-05-29T10:26:04+08:00</updated>
+  <updated>2022-06-09T19:02:24+08:00</updated>
   <author>
     <name>102419@gmail.com</name>
   </author>
   <id>5bc6c034c9b20bdaecc529eb263aeca929a9ae56</id>
 
+  
+  <entry>
+    <id>1K64Q-2022-06-09T19:02:24+08:00</id>
+    <published>2022-06-09T19:02:24+08:00</published>
+    <content type="text">Kindle 中国区结束服务，我很伤心，好像失恋一样伤心。一直以为可以天荒地老，从未想过有结束的一天。</content>
+  </entry>
+  
+  <entry>
+    <id>1K64P-2022-06-06T19:22:03+08:00</id>
+    <published>2022-06-06T19:22:03+08:00</published>
+    <content type="text">最近开始对 Java 感兴趣。因为 Python 虽然有 type hint, 但实际体验下来真的不好用，而且一旦标明类型，其啰嗦程度就与 Java 有得一拼。所以我又开始复习 Java 了。</content>
+  </entry>
+  
+  <entry>
+    <id>1K64M-2022-06-03T22:01:22+08:00</id>
+    <published>2022-06-03T22:01:22+08:00</published>
+    <content type="text">谁不想被温柔以待。</content>
+  </entry>
+  
+  <entry>
+    <id>1K64K-2022-05-30T19:06:20+08:00</id>
+    <published>2022-05-30T19:06:20+08:00</published>
+    <content type="text">我以前认为人变老了会容易变得顽固，后来我发现年轻人也有很多顽固的（不讲逻辑的）偏见，刚开始还以为是个别现象，今天突然想明白了：人在任何年龄段都有大量顽固的想法，只是因为年纪大的人通常社会地位/家庭地位较高，因此更乐意表达意见而已。 #人间观察</content>
+  </entry>
+  
+  <entry>
+    <id>1K64J-2022-05-29T10:35:12+08:00</id>
+    <published>2022-05-29T10:35:12+08:00</published>
+    <content type="text">我长期观察人类，发现人的一个极重要的特征，同时也是人类努力从不同角度去否认的特征：人是动物。人们总是非常努力去说人与其他动物是如何如何不同，比如 “不是人”、“禽兽” 是骂人的话，但很遗憾，人在大多数时候仍被原始的动物性支配着。 #人间观察</content>
+  </entry>
   
   <entry>
     <id>1K64I-2022-05-29T10:26:04+08:00</id>
@@ -166,37 +196,6 @@
     <id>1K61T-2022-04-04T11:31:31+08:00</id>
     <published>2022-04-04T11:31:31+08:00</published>
     <content type="text">#TIL 美国的阶级分隔已经达到如此程度，穷人、富人、中产三者之间各有各自做一切事的一套地方，互相几乎全无交集。富人不会去 costco, 不懂 bulk sale 好在哪，中产不去沃尔玛，想不起来 Great Value 是个什么牌子。美国的中产阶级穿得再休闲也会保证最基本的 decent, 不会是那种沃尔玛的花花绿绿松松垮垮风格。发达国家的阶级是可以明确通过衣着划分的。https://v2ex.com/t/844837</content>
-  </entry>
-  
-  <entry>
-    <id>1K61R-2022-04-02T20:59:04+08:00</id>
-    <published>2022-04-02T20:59:04+08:00</published>
-    <content type="text">最近几天要忙，没空做个人项目了。</content>
-  </entry>
-  
-  <entry>
-    <id>1K61Q-2022-04-01T20:36:13+08:00</id>
-    <published>2022-04-01T20:36:13+08:00</published>
-    <content type="text">巴赫: G弦上的咏叹调 (前苏联大提琴诗人沙弗兰 演奏)
-原曲出自巴赫作品 《Air》, 后经奥古斯特・威廉改编后可以只用小提琴的 G 弦演奏这段音乐，然后才被世人称为 G弦上的咏叹调 (英文名: Air on the G String) https://www.bilibili.com/video/BV1Bx411k7St #乐器演奏</content>
-  </entry>
-  
-  <entry>
-    <id>1K61M-2022-03-31T16:56:50+08:00</id>
-    <published>2022-03-31T16:56:50+08:00</published>
-    <content type="text">【古筝】顶级古筝演奏家王中山演奏噩梦曲《溟山》 https://www.bilibili.com/video/BV1x4411Y7WN #乐器演奏</content>
-  </entry>
-  
-  <entry>
-    <id>1K61H-2022-03-31T09:46:54+08:00</id>
-    <published>2022-03-31T09:46:54+08:00</published>
-    <content type="text">开始做一个静态网站（博客）生成器。</content>
-  </entry>
-  
-  <entry>
-    <id>1K61F-2022-03-30T09:03:06+08:00</id>
-    <published>2022-03-30T09:03:06+08:00</published>
-    <content type="text">图片压缩效果分析工具 https://ic-analyzer.kaciras.com/ https://github.com/Kaciras/ICAnalyzer https://v2ex.com/t/807801 #bookmark #图片处理</content>
   </entry>
   
 
