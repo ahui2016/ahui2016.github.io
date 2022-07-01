@@ -6,12 +6,54 @@
   
   <link ref="alternate" href="https://github.com/ahui2016"/>
   
-  <updated>2022-06-09T19:02:24+08:00</updated>
+  <updated>2022-06-30T21:56:12+08:00</updated>
   <author>
     <name>102419@gmail.com</name>
   </author>
   <id>5bc6c034c9b20bdaecc529eb263aeca929a9ae56</id>
 
+  
+  <entry>
+    <id>1K651-2022-06-30T21:56:12+08:00</id>
+    <published>2022-06-30T21:56:12+08:00</published>
+    <content type="text">刚才我发动态发了一个“忙”字，表示自己最近很忙碌。发完一看感觉不对劲儿，怀疑打错字了，因为这个字单独看越看越不吉利，我甚至上网查了一下确认没错。但是…总之…看来还是不要太忙的好。</content>
+  </entry>
+  
+  <entry>
+    <id>1K650-2022-06-30T21:47:30+08:00</id>
+    <published>2022-06-30T21:47:30+08:00</published>
+    <content type="text">忙</content>
+  </entry>
+  
+  <entry>
+    <id>1K64Y-2022-06-27T08:40:07+08:00</id>
+    <published>2022-06-27T08:40:07+08:00</published>
+    <content type="text">Code Of Ethics https://sqlite.org/codeofethics.html https://news.ycombinator.com/item?id=31886687</content>
+  </entry>
+  
+  <entry>
+    <id>1K64V-2022-06-20T20:46:50+08:00</id>
+    <published>2022-06-20T20:46:50+08:00</published>
+    <content type="text">https://ebookjapan.yahoo.co.jp/ 有免费书 #bookmark</content>
+  </entry>
+  
+  <entry>
+    <id>1K64U-2022-06-18T16:36:42+08:00</id>
+    <published>2022-06-18T16:36:42+08:00</published>
+    <content type="text">今天开始使用锂铁电池，记录一下，看能用多久。这是第三代干电池，优点是非常耐用、保质期10年，而且安全性也比前两代高，缺点是单价高。第一代是碳性电池，缺点是电量低、保质短（2年）、易漏液，优点是单价低。第二代是碱性电池，保质期一般是3至5年，缺点是偶尔会爆炸，我就遇到过，网上也有很多新闻。</content>
+  </entry>
+  
+  <entry>
+    <id>1K64T-2022-06-16T19:54:23+08:00</id>
+    <published>2022-06-16T19:54:23+08:00</published>
+    <content type="text">#Windows 优化：用 Win+S 搜 index 打开 &#34;索引选项&#34; 点击修改否选一些文件夹。用 Dism++ 关闭 Windows Search。搜索工具 Agent Ransack</content>
+  </entry>
+  
+  <entry>
+    <id>1K64R-2022-06-10T09:47:50+08:00</id>
+    <published>2022-06-10T09:47:50+08:00</published>
+    <content type="text">https://www.baeldung.com/start-here #Java #bookmark</content>
+  </entry>
   
   <entry>
     <id>1K64Q-2022-06-09T19:02:24+08:00</id>
@@ -149,53 +191,6 @@
     <id>1K62U-2022-04-21T11:06:21+08:00</id>
     <published>2022-04-21T11:06:21+08:00</published>
     <content type="text">手持两把锟斤拷，口中疾呼烫烫烫</content>
-  </entry>
-  
-  <entry>
-    <id>1K62S-2022-04-19T18:01:06+08:00</id>
-    <published>2022-04-19T18:01:06+08:00</published>
-    <content type="text">ZE3kr  https://v2ex.com/t/847765#reply40
-最便宜: Scaleway Stardust, 0.5GB RAM, 限速 100Mbps 不限流量
-性价比: BuyVM, 1GB RAM, 每月 CA$3.50, 1Gbps 不限流量
-国内网络好: AWS Lightsail, 0.5GB RAM, 每月$3.50, 限流量 1TB
-大内存: OVH VPS, 2GB RAM, 每月$3.5, 限速 100Mbps 不限流量，法兰克福可直连中国，但美国可能绕欧洲。
-#VPS #建站</content>
-  </entry>
-  
-  <entry>
-    <id>1K625-2022-04-09T22:31:48+08:00</id>
-    <published>2022-04-09T22:31:48+08:00</published>
-    <content type="text">#my_project #pypelago **fix** 修复了 HTML 与 atom.xml 的更新日期问题（原本以执行 &#39;ago publish&#39; 命令的时间为准，现在以最新一条公开消息的发表日期为准）</content>
-  </entry>
-  
-  <entry>
-    <id>1K621-2022-04-08T21:00:43+08:00</id>
-    <published>2022-04-08T21:00:43+08:00</published>
-    <content type="text">Apple TV+ 的 _Severance_ 非常精彩，拍得很认真，很有内涵，不媚俗。是需要静下心来仔细欣赏，有很多细节，能刺激人思考的那种影视作品。如果要分类的话，虽然可以归类为科幻片、悬疑片，但我更想把它归类为“哲思片”。 #电影 #美剧</content>
-  </entry>
-  
-  <entry>
-    <id>1K620-2022-04-08T20:01:30+08:00</id>
-    <published>2022-04-08T20:01:30+08:00</published>
-    <content type="text">从艺术的角度看，修正一个作品的瑕疵，与在心理上接受它的瑕疵，是等价的。如何看待一个人、一件事、这个世界、如何看待自己，也一样。</content>
-  </entry>
-  
-  <entry>
-    <id>1K61Y-2022-04-08T17:56:58+08:00</id>
-    <published>2022-04-08T17:56:58+08:00</published>
-    <content type="text">今天打了第三针，安徽智飞，据说是什么蛋白重组比以前的好，具体我也不懂，打完明显比之前那两针感觉更累，也更容易饿（难怪打之前反复问吃东西没，有个老人家说没吃，就劝了很久让他吃了才给打）。</content>
-  </entry>
-  
-  <entry>
-    <id>1K61X-2022-04-08T08:47:44+08:00</id>
-    <published>2022-04-08T08:47:44+08:00</published>
-    <content type="text">Add `txt alias -l/--list` 列出全部别名。 #my_project #txt-cli https://github.com/ahui2016/txt-cli</content>
-  </entry>
-  
-  <entry>
-    <id>1K61T-2022-04-04T11:31:31+08:00</id>
-    <published>2022-04-04T11:31:31+08:00</published>
-    <content type="text">#TIL 美国的阶级分隔已经达到如此程度，穷人、富人、中产三者之间各有各自做一切事的一套地方，互相几乎全无交集。富人不会去 costco, 不懂 bulk sale 好在哪，中产不去沃尔玛，想不起来 Great Value 是个什么牌子。美国的中产阶级穿得再休闲也会保证最基本的 decent, 不会是那种沃尔玛的花花绿绿松松垮垮风格。发达国家的阶级是可以明确通过衣着划分的。https://v2ex.com/t/844837</content>
   </entry>
   
 
