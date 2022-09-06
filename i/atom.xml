@@ -6,12 +6,49 @@
   
   <link ref="alternate" href="https://github.com/ahui2016"/>
   
-  <updated>2022-07-24T08:34:49+08:00</updated>
+  <updated>2022-08-31T20:51:27+08:00</updated>
   <author>
     <name>102419@gmail.com</name>
   </author>
   <id>5bc6c034c9b20bdaecc529eb263aeca929a9ae56</id>
 
+  
+  <entry>
+    <id>1K65P-2022-08-31T20:51:27+08:00</id>
+    <published>2022-08-31T20:51:27+08:00</published>
+    <content type="text">Monostich (单行诗) v0.0.1 完成。
+https://github.com/ahui2016/monostich</content>
+  </entry>
+  
+  <entry>
+    <id>1K65N-2022-08-17T18:23:06+08:00</id>
+    <published>2022-08-17T18:23:06+08:00</published>
+    <content type="text">发布文章《受 Mithril.js 启发的零学习成本极易用框架》 https://geeknote.net/SuperMild/posts/1450</content>
+  </entry>
+  
+  <entry>
+    <id>1K65L-2022-08-14T07:50:24+08:00</id>
+    <published>2022-08-14T07:50:24+08:00</published>
+    <content type="text">发布文章《Javalin网站框架介绍之二 - 数据库》 https://geeknote.net/SuperMild/posts/1430</content>
+  </entry>
+  
+  <entry>
+    <id>1K65I-2022-08-06T20:49:54+08:00</id>
+    <published>2022-08-06T20:49:54+08:00</published>
+    <content type="text">发布了文章《超简单易用的 Java Web 框架 - Javalin》 https://geeknote.net/SuperMild/posts/1428</content>
+  </entry>
+  
+  <entry>
+    <id>1K65H-2022-08-04T10:03:00+08:00</id>
+    <published>2022-08-04T10:03:00+08:00</published>
+    <content type="text">写 golang 和 python 有点腻了，最近趁着工作忙没有精力写程序，就利用零碎时间看了一遍 dev.java, 现在开始用 Java 写些小工具。</content>
+  </entry>
+  
+  <entry>
+    <id>1K65F-2022-07-31T23:13:50+08:00</id>
+    <published>2022-07-31T23:13:50+08:00</published>
+    <content type="text">SQLite背后的故事 https://liyafu.com/2022-07-31-sqlite-untold-story/ #优秀文章</content>
+  </entry>
   
   <entry>
     <id>1K65C-2022-07-24T08:34:49+08:00</id>
@@ -155,42 +192,6 @@
     <id>1K644-2022-05-13T17:47:56+08:00</id>
     <published>2022-05-13T17:47:56+08:00</published>
     <content type="text">时光不会倒流，但音乐可以。（最近每天用 Spotify 听 80, 90 年代的日语、粤语歌）</content>
-  </entry>
-  
-  <entry>
-    <id>1K63X-2022-05-11T13:07:38+08:00</id>
-    <published>2022-05-11T13:07:38+08:00</published>
-    <content type="text">今天看到一句话 &#34;虽不能至，心向往之&#34;。 现在网上很多人都能看清现实，但也都很容易忘记自己 &#34;向往&#34; 的是什么，或者认为既然无法实现，那就索性也不向往了。但我还是认为，即使明知不可能，还是要向往，要明确自己向往的是什么。 #名言佳句</content>
-  </entry>
-  
-  <entry>
-    <id>1K63R-2022-05-08T00:10:30+08:00</id>
-    <published>2022-05-08T00:10:30+08:00</published>
-    <content type="text">#my_project #更新记录 pypelago v0.0.5  1.修复了订阅 news.ycombinator.com/rss 时解析日期格式失败的问题。 2.修复了 &#39;ago search -feeds&#39; 无结果时提示消息的一个小 bug。</content>
-  </entry>
-  
-  <entry>
-    <id>1K63N-2022-05-06T12:46:08+08:00</id>
-    <published>2022-05-06T12:46:08+08:00</published>
-    <content type="text">我把域名迁移到 Cloudflare 和把 VPS 迁移到 Lightsail 这两个计划都失败了，写了篇文章记录这个过程: https://geeknote.net/SuperMild/posts/1057</content>
-  </entry>
-  
-  <entry>
-    <id>1K63M-2022-05-05T21:26:37+08:00</id>
-    <published>2022-05-05T21:26:37+08:00</published>
-    <content type="text">五一假期的最后一天，我们把两张棉被、枕头、洗了两个被套和床垫全部拿到楼顶上去晒了。家里也搞大清洁，两个人一起去扔垃圾都要扔两趟，中午还炒了菜，晚上太累了就简单点吃泡面。突然我就开心起来了，最近很长时间我情绪都很差，就这一天特别开心。</content>
-  </entry>
-  
-  <entry>
-    <id>1K63K-2022-05-05T12:53:32+08:00</id>
-    <published>2022-05-05T12:53:32+08:00</published>
-    <content type="text">先尝试在 Cloudflare 注册域名，但遇到了 Error: Domain registration is blocked for a few minutes pending an existing request. (Code: 10000) 搜索发现不少人遇到同样的问题，有人反映等了一天仍有问题。于是我去 namecheap 注册，过程很顺利，注册了 ai42.cc, 第一年约 ¥40, 续费约 ¥80。</content>
-  </entry>
-  
-  <entry>
-    <id>1K63J-2022-05-05T12:53:09+08:00</id>
-    <published>2022-05-05T12:53:09+08:00</published>
-    <content type="text">我的 ai42.xyz 域名即将到期, GoDaddy 去年收我 ¥100, 今年涨价到 ¥120, 我觉得不合理，而且也比 namecheap 贵。刚好我也想把 VPS 从 Vultr 转到 AWS Lightsail, 索性域名也注册一个新的吧。</content>
   </entry>
   
 
