@@ -1,12 +1,34 @@
-# My Blog
+# 关于本博客
 
-Here is my blog: https://ahui2016.github.io
+这里主要是我写的一些日记、散文、随想之类的文章，
+其中经常会谈论到社会现象、世界观、价值观、人生观等的事情，
+由于我水平有限，我的文章中必然会含有很多不妥甚至错误的想法。
 
-And also deploy on Cloudflare https://2046.pages.dev
+那么，明知会有错，我为什么还要发到网上来，公之于众呢？
 
-## 说明
+对于这个问题，我不禁想起一个不知真假的故事：  
+老师问，还有比这更丑的椅子吗？爱因斯坦回答说，有。然后拿出两个更丑的手工制品。
 
-- 我想尝试用纯 HTML 来写文章, 完全不使用 CSS 和 JavaScript, 最开始做出来的风格类似这样 https://motherfuckingwebsite.com/ (我特地保留了一个旧样式风格的页面供参考 https://2046.pages.dev/fsharp/20210606a-old.html )
-- 但后来受到 http://bettermotherfuckingwebsite.com/ 和 https://thebestmotherfucking.website/ 的影响，增加了一点点 CSS (真的非常非常少), 主要是因为默认样式实在太丑，以及我想要 dark mode.
-- 只增加了很少 CSS, 自己调了一个非常护眼的低对比度 dark mode, 感觉很满意。目前只能跟随系统自动切换。
-- 在使用 CSS 方面非常克制，只要比默认样式稍好一点就行，不追求太多细节优化。因为如果花很多时间把一个主题做到自己满意，我就会很快看腻想做新主题，反而 "味道清淡" 的东西更不容易腻。
+我也一样，我的这些文章写得不好，但我曾经写过更烂的文章。
+我曾经有过更坏的思想，如同那些在网上被嘲笑、讽刺的
+*无脑黑、睿智、杠精、直男癌* …… 一样。
+
+这些曾经的我，犯错的我，是我的历史，没有 "他们" 就没有现在的我，
+而现在的我也不是完美的，没有人可以拥有完美的绝对正确的三观，因此，
+与其等到自己有完美的思想再发表文章，还不如接受不完美。
+
+接受别人的不完美，也接受自己的不完美。
+
+### 技术栈
+
+本博客的文章用 Markdown 格式编写，然后采用
+[PyBoke](https://github.com/ahui2016/pyboke) 生成静态网站，
+再通过 [GitHub Pages](https://www.bing.com/search?q=github+pages) 发布。
+
+另外也发布了一份到我的 VPS 里，使用 [Caddy](https://caddyserver.com)
+作为网站服务器。
+
+### 编程
+
+另外我也写一些关于编程的文章，发布在这里 <https://geeknote.net/SuperMild>
+
