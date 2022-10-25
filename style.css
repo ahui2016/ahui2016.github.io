@@ -1,0 +1,116 @@
+header {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 2rem;
+}
+
+h2 {
+  margin-bottom: 1.5rem;
+}
+
+h3 {
+  margin-bottom: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+table {
+  margin-bottom: 2rem;
+}
+
+.small {
+  font-size: small;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+
+#back-home {
+  text-align: right;
+  margin-bottom: 2rem;
+}
+
+#archives {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 1rem;
+  
+}
+
+.art-info {
+  font-size: small;
+  margin-top: 5rem;
+}
+
+#updated-at {
+  font-size: small;
+  margin-top: 5rem;
+  text-align: right;
+}
+
+#footer {
+  font-size: small;
+  border-top: 1px solid #ccc;
+}
+
+.index-footer {
+  margin-top: 5rem;
+}
+
+#footer-home-link {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: right;
+}
+
+#footer-body {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 3rem;
+  padding-top: 1.5rem;
+}
+
+#title-index-list {
+  margin-bottom: 3rem;
+  font-size: xx-large;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 1.5rem;
+  column-gap: 1.5rem;
+}
+
+.TitleIndexItem {
+  color: white;
+  background-color: #A1A1AA;
+  padding: .15em .45em;
+  display: inline-block;
+}
+
+.TitleIndexItem a {
+  color: white;
+}
+
+#title-indexes {
+  margin-bottom: 5rem;
+}
+
+#title-index {
+  margin-bottom: 5rem;
+}
+
+.footnote-ref {
+  background-color: yellow;
+}
+
+.footnotes {
+  margin-top: 150px;
+  font-size: smaller;
+}
+

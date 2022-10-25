@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <link rel="stylesheet" href="theme.css" />
+    <link rel="stylesheet" href="style.css" />
+
+    
+  <title>PyBoke 的 Markdown 语法与效果 - 电子芥末</title>
+
+
+    
+  <style>
+  img {
+    
+    max-width: 100% !important;
+    
+    height: auto !important;
+  }
+
+  
+  h4 {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  </style>
+
+
+  </head>
+  <body>
+    
+
+    <main>
+
+<h1>PyBoke 的 Markdown 语法与效果</h1>
+<p>参考: <a href="https://support.typora.io/zh/Markdown-Reference/">https://support.typora.io/zh/Markdown-Reference/</a></p>
+<p>我的这个博客是用 <a href="https://github.com/ahui2016/pyboke">PyBoke</a> 生成的,
+PyBoke 采用 <a href="https://github.com/lepture/mistune">mistune</a> 做从 Markdown 到 HTML 的转换,
+mistune 注重速度，转换速度极快，但支持的特性、功能比较少，只支持 Markdown 的一部分特性。</p>
+<p>下面是 PyBoke 支持的语法及其渲染效果的展示。</p>
+<h2>段落和换行符</h2>
+<pre><code class="language-md">第一行，后面跟两个空格  
+第二行。
+
+第一行，后面没有空格
+第二行。
+
+第一行，后面跟空行
+
+第二行。
+</code></pre>
+<p>第一行，后面跟两个空格<br />
+第二行。</p>
+<p>第一行，后面没有空格
+第二行。</p>
+<p>第一行，后面跟空行</p>
+<p>第二行。</p>
+<h2>标题</h2>
+<p>标题在行的开头使用1-6个 <code>#</code> 字符，对应于标题级别1-6。例如：</p>
+<pre><code class="language-md"># 这是一级标题
+
+## 这是二级标题
+
+###### 这是六级标题
+</code></pre>
+<h2>引用文字</h2>
+<pre><code class="language-md">&gt; 这是一个有两段的块引用。这是第一段。
+&gt;
+&gt; 这是第二段。Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+
+&gt; 这是另一个只有一个段落的块引用。有一个空行分隔两个块引用。
+</code></pre>
+<blockquote>
+<p>这是一个有两段的块引用。这是第一段。</p>
+<p>这是第二段。Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p>
+</blockquote>
+<blockquote>
+<p>这是另一个只有一个段落的块引用。有一个空行分隔两个块引用。</p>
+</blockquote>
+<h2>无序列表</h2>
+<p>输入 <code>* list item 1</code> 将创建一个无序列表，该 <code>*</code> 符号可以替换为 <code>+</code> 或 <code>-</code>.</p>
+<pre><code class="language-md">* 红色
+* 绿色 长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果
+* 蓝色
+</code></pre>
+<ul>
+<li>红色</li>
+<li>绿色 长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果</li>
+<li>蓝色</li>
+</ul>
+<h2>有序列表</h2>
+<p>输入 <code>1. list item 1</code> 将创建一个有序列表。</p>
+<pre><code class="language-md">1. 红色
+2. 绿色 长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果
+3. 蓝色
+</code></pre>
+<ol>
+<li>红色</li>
+<li>绿色 长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果长句看看自动换行的效果</li>
+<li>蓝色</li>
+</ol>
+<h2>（栅栏式）代码块</h2>
+<p>行内代码用反引号进行包裹，例如</p>
+<pre><code class="language-md">使用 `&lt;html&gt;` 标签。
+</code></pre>
+<p>使用 <code>&lt;html&gt;</code> 标签。</p>
+<p>代码块用三个反引号进行包裹 (PyBoke 不支持语法高亮)</p>
+<pre><code class="language-ruby">require 'redcarpet'
+markdown = Redcarpet.new(&quot;Hello World!&quot;)
+puts markdown.to_html
+</code></pre>
+<h2>表格</h2>
+<pre><code class="language-md">| First Header | Second Header |
+|--------------|---------------|
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
+</code></pre>
+<table>
+<thead>
+<tr>
+  <th>First Header</th>
+  <th>Second Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Content Cell</td>
+  <td>Content Cell</td>
+</tr>
+<tr>
+  <td>Content Cell</td>
+  <td>Content Cell</td>
+</tr>
+</tbody>
+</table>
+<p>表格支持左对齐、居中、右对齐（注意表格标题下的冒号）</p>
+<pre><code class="language-md">| Left-Aligned  | Center Aligned  | Right Aligned |
+|:--------------|:---------------:|--------------:|
+| col 3 is      | some wordy text | $1600         |
+| col 2 is      | centered        | $12           |
+| zebra stripes | are neat        | $1            |
+</code></pre>
+<table>
+<thead>
+<tr>
+  <th style="text-align:left">Left-Aligned</th>
+  <th style="text-align:center">Center Aligned</th>
+  <th style="text-align:right">Right Aligned</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td style="text-align:left">col 3 is</td>
+  <td style="text-align:center">some wordy text</td>
+  <td style="text-align:right">$1600</td>
+</tr>
+<tr>
+  <td style="text-align:left">col 2 is</td>
+  <td style="text-align:center">centered</td>
+  <td style="text-align:right">$12</td>
+</tr>
+<tr>
+  <td style="text-align:left">zebra stripes</td>
+  <td style="text-align:center">are neat</td>
+  <td style="text-align:right">$1</td>
+</tr>
+</tbody>
+</table>
+<h2>水平线</h2>
+<p>独立一行输入 <code>---</code> (三个或更多减号) 可绘制一条水平线。</p>
+<hr />
+<h2>脚注</h2>
+<pre><code class="language-md">您可以像这样创建脚注 [^footnote]
+
+[^footnote]: Here is the *text* of the **footnote**. (注意，实际使用中，这一行写在文章的底部。)
+
+点击上标可查看脚注的内容。
+</code></pre>
+<p>您可以像这样创建脚注 <sup class="footnote-ref" id="fnref-1"><a href="#fn-1">1</a></sup></p>
+<p>点击上标可查看脚注的内容。</p>
+<h2>水平线(2)</h2>
+<p>独立一行输入 <code>***</code> (三个或更多星号) 也可绘制一条水平线。</p>
+<hr />
+<h2>链接</h2>
+<pre><code class="language-md">This is [an example](http://example.com/ &quot;链接的提示/说明&quot;) inline link (鼠标悬停在链接上可看到提示).
+
+[This link](http://example.net/) has no title attribute (没有提示).
+
+简单链接可直接使用尖括号，例如 &lt;https://v2ex.com&gt;
+</code></pre>
+<p>This is <a href="http://example.com/" title="链接的提示/说明">an example</a> inline link (鼠标悬停在链接上可看到提示).</p>
+<p><a href="http://example.net/">This link</a> has no title attribute (没有提示).</p>
+<p>简单链接可直接使用尖括号，例如 <a href="https://v2ex.com">https://v2ex.com</a></p>
+<h2>图片</h2>
+<p>图像与链接类似， 但在链接语法之前需要添加额外的 <code>!</code> 字符：</p>
+<pre><code class="language-md">![替代文字](/path/to/img.jpg)
+
+![替代文字](/path/to/img.jpg &quot;可选标题&quot;)
+</code></pre>
+<h2>斜体、粗体、删除线</h2>
+<pre><code class="language-md">好运*单个星号*好运
+
+好运_单个下划线_好运
+
+好运**两个星号**好运
+
+好运~~123abc~~好运
+</code></pre>
+<p>好运<em>单个星号</em>好运</p>
+<p>好运_单个下划线_好运</p>
+<p>好运<strong>两个星号</strong>好运</p>
+<p>好运<del>123abc</del>好运</p>
+<section class="footnotes">
+<ol>
+<li id="fn-1"><p>Here is the <em>text</em> of the <strong>footnote</strong>.<a href="#fnref-1" class="footnote">&#8617;</a></p></li>
+</ol>
+</section>
+
+
+<div id="updated-at">
+  <span>Updated at 1970-10-16 08:47:43</span>
+</div>
+</main>
+    
+<div id="footer">
+  <div id="footer-home-link">
+    <a href="index.html">&lt;&lt; Home</a>
+    
+  </div>
+  <p id="footer-body">
+    
+    Author: 阿辉
+    
+    | LICENSE <a href="LICENSE.txt">CC0-1.0</a>
+    | RSS <a href="atom.xml">atom.xml</a>
+  </p>
+</div>
+
+  </body>
+
+  
+</html>
