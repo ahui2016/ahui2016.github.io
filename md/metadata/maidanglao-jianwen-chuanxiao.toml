@@ -1,0 +1,35 @@
+# 本文件采用 TOML 格式 https://toml.io/
+
+# 文章标题 [请勿手动修改，会自动获取]
+title = '''麦当劳见闻之遇见传销'''
+
+# 文章作者 [通常留空，自动等同于博客作者]
+author = ''''''
+
+# 文章创建时间
+ctime = '2013-01-06 09:38:39+08:00'
+
+# 文章修改时间
+mtime = '2013-01-06 09:38:39+08:00'
+
+# sha1, 用来判断文章内容有无变更 [请勿手动修改]
+checksum = '5a476ffcf21a696e66e636d3dd5c0dec5a872b81'
+
+# 是否忽略文章 (true/false)
+# 被忽略的文章不出现在最近列表、索引列表里，但仍会出现在 RSS 里
+ignored = false
+
+# HTML中的图片的最大宽度 (留空表示跟随总设定)
+img_width = ''
+
+# 是否执行自动替换 (0:跟随总设定, -1:不执行, 1:执行)
+replace = 0
+
+# 自动替换。例:
+# pairs =  [
+#   [ '''../output/pics/abc.jpg''', '''https://example.com/abc.jpg''' ],
+#   [ '''../output/pics/def.jpg''', '''https://example.com/def.jpg''' ],
+# ]
+pairs = [
+
+]

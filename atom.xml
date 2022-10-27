@@ -12,11 +12,37 @@
 
   
   <entry>
+    <title>iPelago</title>
+    <link ref="alternate" href="https://blog.ai42.cc/ipelago-000.html" />
+    <id>ipelago-000</id>
+    <published>2022-10-14 09:38:39+08:00</published>
+    <updated>2022-10-27 23:18:06+08:00</updated>
+    <author><name>阿辉</name></author>
+    <content type="text"># iPelago
+
+这里是我的独立微博客。
+
+&gt; 我的微博客名称是 iPelago, 源于群岛的英文 archipelago.  
+&gt; 独立博客/微博客很像一座座孤岛，同时也像一个天然的去中心化系统。
+
+
+#### 2022-10-27
+
+极简独立博客完成了, 现在开始做一个极简独立相册.  
+R2-Gallery: 个人独立相册，其中图片储存采用 Cloudflare R2 实现。
+
+#### 2022-10-23
+
+回顾我以前写的全部文章，发现正常上班期间的自己内心非常空虚，
+几乎没有留下一篇文章，那...</content>
+  </entry>
+  
+  <entry>
     <title>降维打击其实不是降维打击</title>
     <link ref="alternate" href="https://blog.ai42.cc/jiangwei-daji.html" />
     <id>jiangwei-daji</id>
     <published>2022-02-15 11:18:09+08:00</published>
-    <updated>2022-10-26 14:26:31+08:00</updated>
+    <updated>2022-10-27 23:18:06+08:00</updated>
     <author><name>阿辉</name></author>
     <content type="text"># 降维打击其实不是降维打击
 
@@ -107,31 +133,6 @@ Apple TV+ 的 _Severance_ 非常精彩，拍得很认真，很有内涵，不媚
 看了一会儿就玩别的去了。
 
 过了几年，我也还小，记忆中这是第二次接触猫，这次印...</content>
-  </entry>
-  
-  <entry>
-    <title>iPelago</title>
-    <link ref="alternate" href="https://blog.ai42.cc/ipelago-000.html" />
-    <id>ipelago-000</id>
-    <published>2022-10-14 09:38:39+08:00</published>
-    <updated>2022-10-23 10:14:21+08:00</updated>
-    <author><name>阿辉</name></author>
-    <content type="text"># iPelago
-
-这里是我的独立微博客。
-
-&gt; 我的微博客名称是 iPelago, 源于群岛的英文 archipelago.  
-&gt; 独立博客/微博客很像一座座孤岛，同时也像一个天然的去中心化系统。
-
-
-#### 2022-10-23
-
-回顾我以前写的全部文章，发现正常上班期间的自己内心非常空虚，
-几乎没有留下一篇文章，那时很忙，工作压力很大，
-完全没有时间想东想西。那时候也有谈恋爱，但现在回头看像是行尸走肉，
-像个正常人一样说话、活动，但没有灵魂，只是肉体在动。
-
-写文章最多的时间段是辞职后的两三年内...</content>
   </entry>
   
   <entry>
