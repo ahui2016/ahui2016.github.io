@@ -12,11 +12,35 @@
 
   
   <entry>
+    <title>Bookmarks</title>
+    <link ref="alternate" href="https://blog.ai42.cc/bookmarks.html" />
+    <id>bookmarks</id>
+    <published>1970-11-01 20:36:47+08:00</published>
+    <updated>2022-11-01 20:36:47+08:00</updated>
+    <author><name>阿辉</name></author>
+    <content type="text"># Bookmarks
+
+#### Nicheless Micro-blogging Platform `#微網誌`
+
+- Geek Style UI
+- &lt;https://nicheless.blog/explore&gt;
+
+#### 漢語多功能字庫 (香港中文大學)
+
+  - 簡繁轉換, 倉頡碼
+  - &lt;https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/&gt;
+ 
+#### hkcards: 查倉頡 / 學倉頡 / 圖解拆字
+
+  - &lt;https://www.hk...</content>
+  </entry>
+  
+  <entry>
     <title>iPelago</title>
     <link ref="alternate" href="https://blog.ai42.cc/ipelago-000.html" />
     <id>ipelago-000</id>
     <published>2022-10-14 09:38:39+08:00</published>
-    <updated>2022-10-27 23:18:06+08:00</updated>
+    <updated>2022-11-01 20:36:20+08:00</updated>
     <author><name>阿辉</name></author>
     <content type="text"># iPelago
 
@@ -25,16 +49,37 @@
 &gt; 我的微博客名称是 iPelago, 源于群岛的英文 archipelago.  
 &gt; 独立博客/微博客很像一座座孤岛，同时也像一个天然的去中心化系统。
 
+#### 2022-10-30
 
-#### 2022-10-27
+今天学繁体字发现 &#34;复&#34; 字对应三个繁体字 「復/複/覆」  
+进而发现原来繁体 &#34;回復&#34; 不是 &#34;答复&#34; 的意思, 而是 &#34;恢复&#34; 的意思.  
+繁体没有 &#34;回覆&#34; 这个词, 只有 &#34;答覆&#34;. `#漢字`
 
-极简独立博客完成了, 现在开始做一个极简独立相册.  
-R2-Gallery: 个人独立相册，其中图片储存采用 Cloudflare R2 实现。
+#### 2022-10-28
 
-#### 2022-10-23
+最近學倉頡輸入法, 順便學繁...</content>
+  </entry>
+  
+  <entry>
+    <title>我的开源项目</title>
+    <link ref="alternate" href="https://blog.ai42.cc/my-projects.html" />
+    <id>my-projects</id>
+    <published>1970-10-14 09:38:40+08:00</published>
+    <updated>2022-11-01 20:36:20+08:00</updated>
+    <author><name>阿辉</name></author>
+    <content type="text"># 我的开源项目
 
-回顾我以前写的全部文章，发现正常上班期间的自己内心非常空虚，
-几乎没有留下一篇文章，那...</content>
+这些项目多数是为了满足我自己的需求，我自己日常经常使用。  
+这里只列出一部分，更多请看 [github.com/ahui2016](https://github.com/ahui2016)
+
+#### PyBoke
+
+- [github.com/ahui2016/pyboke](https://github.com/ahui2016/pyboke)
+- 极简博客生成器
+- 你正在看的这个博客就是用 PyBoke 生成的
+- 优点: 使用过程极简、功能极简，代码极简
+
+#### Mono...</content>
   </entry>
   
   <entry>
@@ -159,28 +204,6 @@ Apple TV+ 的 _Severance_ 非常精彩，拍得很认真，很有内涵，不媚
   </entry>
   
   <entry>
-    <title>我的开源项目</title>
-    <link ref="alternate" href="https://blog.ai42.cc/my-projects.html" />
-    <id>my-projects</id>
-    <published>1970-10-14 09:38:40+08:00</published>
-    <updated>2022-10-14 22:46:08+08:00</updated>
-    <author><name>阿辉</name></author>
-    <content type="text"># 我的开源项目
-
-这些项目多数是为了满足我自己的需求，我自己日常经常使用。  
-这里只列出一部分，更多请看 [github.com/ahui2016](https://github.com/ahui2016)
-
-#### PyBoke
-
-- [github.com/ahui2016/pyboke](https://github.com/ahui2016/pyboke)
-- 极简博客生成器
-- 你正在看的这个博客就是用 PyBoke 生成的
-- 优点: 使用过程极简、功能极简，代码极简
-
-#### Mono...</content>
-  </entry>
-  
-  <entry>
     <title>他在阳光下</title>
     <link ref="alternate" href="https://blog.ai42.cc/maidanglao-jingshenbingren.html" />
     <id>maidanglao-jingshenbingren</id>
@@ -225,31 +248,6 @@ Apple TV+ 的 _Severance_ 非常精彩，拍得很认真，很有内涵，不媚
 “你拍过电影吗？”
 
 对方当时都蒙了，一时之间竟接不...</content>
-  </entry>
-  
-  <entry>
-    <title>流浪汉</title>
-    <link ref="alternate" href="https://blog.ai42.cc/liulanghan.html" />
-    <id>liulanghan</id>
-    <published>2021-10-22 09:39:40+08:00</published>
-    <updated>2021-10-22 09:39:40+08:00</updated>
-    <author><name>阿辉</name></author>
-    <content type="text"># 流浪汉
-
-今天早上去麦当劳，又遇到了一个流浪汉，昨天我来时他刚走，
-今天店里几乎满座，只好坐到他旁边。
-
-他趴在桌子上睡觉，身材高大偏胖。他有一辆共享单车载着少量行李，
-看起来是刚变成流浪汉不久。
-
-我几乎每天都在麦当劳或图书馆之类的地方长时间逗留，
-见过不少流浪汉。流浪时间长了，基本上就不会进麦当劳，
-就算想进也会很快被赶出来。
-
-刚开始做流浪汉的人还会带着牙刷毛巾，到这些公共场所的洗手池洗漱，
-在麦当劳和图书馆都见过这种，通常保安会禁止他们洗漱。
-
-精神病人我也见过不少，有一次被一个半疯半丐的人抢了...</content>
   </entry>
   
 
