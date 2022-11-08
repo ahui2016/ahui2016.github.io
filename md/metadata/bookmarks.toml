@@ -1,23 +1,23 @@
 # 本文件采用 TOML 格式 https://toml.io/
 
 # 文章标题 [请勿手动修改，会自动获取]
-title = '''iPelago'''
+title = '''Bookmarks'''
 
 # 文章作者 [通常留空，自动等同于博客作者]
 author = ''''''
 
 # 文章创建时间
-ctime = '2022-10-14 09:38:39+08:00'
+ctime = '1970-11-01 20:36:47+08:00'
 
 # 文章修改时间
-mtime = '2022-11-08 15:05:20+08:00'
+mtime = '2022-11-06 14:17:21+08:00'
 
 # sha1, 用来判断文章内容有无变更 [请勿手动修改]
-checksum = '673b3264bcfdcdf08279a9fba66b8d7c3c72bcd6'
+checksum = '8328d8e88afd7553813d99da5ad25113f0f40559'
 
 # 是否忽略文章 (true/false)
 # 被忽略的文章不出现在最近列表、索引列表里，但仍会出现在 RSS 里
-ignored = true
+ignored = false
 
 # HTML中的图片的最大宽度 (留空表示跟随总设定)
 img_width = ''
