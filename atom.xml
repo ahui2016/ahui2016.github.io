@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>电子芥末</title>
+  <title>電子芥末</title>
   <link ref="self" href=""/>
   <link ref="alternate" href="https://blog.ai42.cc/"/>
   <updated></updated>
   <author>
-    <name>阿辉</name>
+    <name>阿輝</name>
   </author>
   <id>029f4b6849f0663e8be5be17fd2368833dc0884a</id>
 
@@ -16,23 +16,24 @@
     <link ref="alternate" href="https://blog.ai42.cc/ipelago-000.html" />
     <id>ipelago-000</id>
     <published>2022-10-14 09:38:39+08:00</published>
-    <updated>2022-11-10 17:52:14+08:00</updated>
-    <author><name>阿辉</name></author>
+    <updated>2022-12-10 10:07:27+08:00</updated>
+    <author><name>阿輝</name></author>
     <content type="text"># iPelago
 
-这里是我的独立微博客。
+這裡是我的獨立微網誌。
 
-&gt; 我的微博客名称是 iPelago, 源于群岛的英文 archipelago.  
-&gt; 独立博客/微博客很像一座座孤岛，同时也像一个天然的去中心化系统。
+&gt; 我的微網誌名稱是 iPelago, 源於群島的英文 archipelago.  
+&gt; 個人部落格/獨立微網誌很像一座座孤島, 同時也像一個天然的去中心化系統。
 
+#### 2022-12-10
 
-#### 2022-11-09
+將我的部落格的 `html lang=&#34;zh-cn&#34;` 改為 `html lang=&#34;zh-Hant&#34;`,
+這樣字體好看一點.
 
-`#漢字` 又有新發現, 原來港台地區也會原生自發使用簡體字, 比如「台」,
-臺灣教育部以傳統形式「臺」為正規用字，但民間廣泛使用「台」字。  
-參考: &lt;https://zh.m.wiktionary.org/zh-hant/%E8%87%BA&gt;
+#### 2022-12-10
 
-另外要注意, 「台...</content>
+`#漢語` 公布/公佈, 宣布/宣佈  
+因為以前的字, 喜歡加偏旁的關係, 才會冒出「佈」這個字,...</content>
   </entry>
   
   <entry>
@@ -40,8 +41,8 @@
     <link ref="alternate" href="https://blog.ai42.cc/bookmarks.html" />
     <id>bookmarks</id>
     <published>1970-11-01 20:36:47+08:00</published>
-    <updated>2022-11-10 17:50:16+08:00</updated>
-    <author><name>阿辉</name></author>
+    <updated>2022-12-10 09:37:12+08:00</updated>
+    <author><name>阿輝</name></author>
     <content type="text"># Bookmarks
 
 
@@ -66,7 +67,7 @@
     <id>my-projects</id>
     <published>1970-10-14 09:38:40+08:00</published>
     <updated>2022-11-01 20:36:20+08:00</updated>
-    <author><name>阿辉</name></author>
+    <author><name>阿輝</name></author>
     <content type="text"># 我的开源项目
 
 这些项目多数是为了满足我自己的需求，我自己日常经常使用。  
@@ -88,7 +89,7 @@
     <id>jiangwei-daji</id>
     <published>2022-02-15 11:18:09+08:00</published>
     <updated>2022-10-27 23:18:06+08:00</updated>
-    <author><name>阿辉</name></author>
+    <author><name>阿輝</name></author>
     <content type="text"># 降维打击其实不是降维打击
 
 目前网络流行语 **降维打击** 的意思，通常是指高维度，高水平的人，
@@ -109,7 +110,7 @@
     <id>ipelago-001</id>
     <published>2022-10-21 10:57:19+08:00</published>
     <updated>2022-10-25 18:51:32+08:00</updated>
-    <author><name>阿辉</name></author>
+    <author><name>阿輝</name></author>
     <content type="text"># iPelago
 
 返回微博客首页 [&amp;lt;&amp;lt; microblog](ipelago-000.html)
@@ -136,7 +137,7 @@ Apple TV+ 的 _Severance_ 非常精彩，拍得很认真，很有内涵，不媚
     <id>heidao-shaonian</id>
     <published>2014-07-23 20:02:11+08:00</published>
     <updated>2022-10-24 20:33:48+08:00</updated>
-    <author><name>阿辉</name></author>
+    <author><name>阿輝</name></author>
     <content type="text"># 黑道少年
 
 他是混黑道的，她是高中生，但她不怎么上课。
@@ -163,7 +164,7 @@ Apple TV+ 的 _Severance_ 非常精彩，拍得很认真，很有内涵，不媚
     <id>kaishi-yangmao</id>
     <published>2010-05-23 18:34:56+08:00</published>
     <updated>2022-10-23 21:08:30+08:00</updated>
-    <author><name>阿辉</name></author>
+    <author><name>阿輝</name></author>
     <content type="text"># 开始养猫
 
 我对猫的第一印象并不算好，在我很小的时候，有一次舅舅家养猫，
@@ -186,7 +187,7 @@ Apple TV+ 的 _Severance_ 非常精彩，拍得很认真，很有内涵，不媚
     <id>about-my-blog</id>
     <published>1970-10-18 08:49:40+08:00</published>
     <updated>2022-10-18 10:04:01+08:00</updated>
-    <author><name>阿辉</name></author>
+    <author><name>阿輝</name></author>
     <content type="text"># 关于本博客
 
 这里主要是我写的一些日记、散文、随想之类的文章，
@@ -209,7 +210,7 @@ Apple TV+ 的 _Severance_ 非常精彩，拍得很认真，很有内涵，不媚
     <id>maidanglao-jingshenbingren</id>
     <published>2022-10-12 09:38:39+08:00</published>
     <updated>2022-10-12 09:38:39+08:00</updated>
-    <author><name>阿辉</name></author>
+    <author><name>阿輝</name></author>
     <content type="text"># 他在阳光下
 
 十月的某一天，酷热的广州突然降温，有秋天的感觉了。
@@ -231,7 +232,7 @@ Apple TV+ 的 _Severance_ 非常精彩，拍得很认真，很有内涵，不媚
     <id>jixian-zhuangbi-gushi</id>
     <published>2022-02-15 10:15:29+08:00</published>
     <updated>2022-02-15 10:15:29+08:00</updated>
-    <author><name>阿辉</name></author>
+    <author><name>阿輝</name></author>
     <content type="text"># 一个我亲眼所见的极限装逼故事
 
 &gt; 这事情发生在很久以前，突然回想起，还是想记录下来。
