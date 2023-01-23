@@ -12,36 +12,11 @@
 
   
   <entry>
-    <title>iPelago</title>
-    <link ref="alternate" href="https://blog.ai42.cc/ipelago-000.html" />
-    <id>ipelago-000</id>
-    <published>2022-10-14 09:38:39+08:00</published>
-    <updated>2022-12-10 10:07:27+08:00</updated>
-    <author><name>阿輝</name></author>
-    <content type="text"># iPelago
-
-這裡是我的獨立微網誌。
-
-&gt; 我的微網誌名稱是 iPelago, 源於群島的英文 archipelago.  
-&gt; 個人部落格/獨立微網誌很像一座座孤島, 同時也像一個天然的去中心化系統。
-
-#### 2022-12-10
-
-將我的部落格的 `html lang=&#34;zh-cn&#34;` 改為 `html lang=&#34;zh-Hant&#34;`,
-這樣字體好看一點.
-
-#### 2022-12-10
-
-`#漢語` 公布/公佈, 宣布/宣佈  
-因為以前的字, 喜歡加偏旁的關係, 才會冒出「佈」這個字,...</content>
-  </entry>
-  
-  <entry>
     <title>Bookmarks</title>
     <link ref="alternate" href="https://blog.ai42.cc/bookmarks.html" />
     <id>bookmarks</id>
     <published>1970-11-01 20:36:47+08:00</published>
-    <updated>2022-12-10 09:37:12+08:00</updated>
+    <updated>2023-01-23 21:07:07+08:00</updated>
     <author><name>阿輝</name></author>
     <content type="text"># Bookmarks
 
@@ -59,6 +34,59 @@
 
 - 重編國語辭典修訂本等 (國家教育研究院)
   - &lt;https://www.naer.edu.tw/PageMenu?...</content>
+  </entry>
+  
+  <entry>
+    <title>带着残酷的伤痛用荒诞的故事与梦幻的镜头编织而成的异时空</title>
+    <link ref="alternate" href="https://blog.ai42.cc/hua-jia.html" />
+    <id>hua-jia</id>
+    <published>2020-03-10 18:54:39+08:00</published>
+    <updated>2023-01-23 21:07:07+08:00</updated>
+    <author><name>阿輝</name></author>
+    <content type="text"># 带着残酷的伤痛用荒诞的故事与梦幻的镜头编织而成的异时空
+
+今天看了《瑞普·凡·温克尔的新娘》
+（リップヴァンウィンクルの花嫁），这个电影名称真够拗口的，
+为了叙述方便，以下简称《花嫁》。
+
+先说结论：这部电影非常优秀，但有点曲高和寡。
+
+自从看了《澪之料理帖》，炫就有要把黑木华的电影全看一遍的势头，
+她很喜欢她。
+
+可能是一见钟情吧，在正式看《澪之料理帖》之前，
+她就对黑木华的剧照赞不绝口。
+
+《花嫁》前半部分我很不喜欢，看到七海被骗到酒店，
+小哥建议她用洗澡来拖延时间，她还真的脱了衣服洗澡的时候，
+我...</content>
+  </entry>
+  
+  <entry>
+    <title>iPelago</title>
+    <link ref="alternate" href="https://blog.ai42.cc/ipelago-000.html" />
+    <id>ipelago-000</id>
+    <published>2022-10-14 09:38:39+08:00</published>
+    <updated>2023-01-23 21:07:07+08:00</updated>
+    <author><name>阿輝</name></author>
+    <content type="text"># iPelago
+
+這裡是我的獨立微網誌。
+
+&gt; 我的微網誌名稱是 iPelago, 源於群島的英文 archipelago.  
+&gt; 個人部落格/獨立微網誌很像一座座孤島, 同時也像一個天然的去中心化系統。
+
+
+#### 2022-12-30
+
+我覺得倉頡比五筆更易學, 主要是字根少.
+五筆有 234 個字根需要死記硬背, 而倉頡只有約 100 個字根.
+
+#### 2022-12-28
+
+連續幾天未編程, 未工作, 以睡覺為主,
+每天學一點倉頡輪入法. 今天終於有工作來.
+炫打算明天上班, 我可能去麥...</content>
   </entry>
   
   <entry>
@@ -224,31 +252,6 @@ Apple TV+ 的 _Severance_ 非常精彩，拍得很认真，很有内涵，不媚
 他是一个精神病人。
 
 好几年了...</content>
-  </entry>
-  
-  <entry>
-    <title>一个我亲眼所见的极限装逼故事</title>
-    <link ref="alternate" href="https://blog.ai42.cc/jixian-zhuangbi-gushi.html" />
-    <id>jixian-zhuangbi-gushi</id>
-    <published>2022-02-15 10:15:29+08:00</published>
-    <updated>2022-02-15 10:15:29+08:00</updated>
-    <author><name>阿輝</name></author>
-    <content type="text"># 一个我亲眼所见的极限装逼故事
-
-&gt; 这事情发生在很久以前，突然回想起，还是想记录下来。
-
-一天，我在电影院附近的咖啡厅休息，两个 20 出头的男生坐在旁边桌，
-他门讨论刚看完的电影《云图》。
-
-他们各自发表自己对电影的理解，《云图》这个电影也确实有极大量的
-细节可供讨论，很多隐藏的彩蛋，很巧妙。他们总有意见不同的地方，
-言语之中就开始阴阳怪气，想要表达 “你不懂、你没我懂，我最懂电影”
-的意思。
-
-本来旗鼓相当半斤八两，突然，其中一人放了大招，他问：
-“你拍过电影吗？”
-
-对方当时都蒙了，一时之间竟接不...</content>
   </entry>
   
 

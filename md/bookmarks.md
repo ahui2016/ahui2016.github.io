@@ -15,6 +15,7 @@
 - 重編國語辭典修訂本等 (國家教育研究院)
   - <https://www.naer.edu.tw/PageMenu?fid=44>
   - 異體字字典 <https://dict.variants.moe.edu.tw/variants/rbt/home.do>
+  - 成語典 <https://dict.idioms.moe.edu.tw/search.jsp>
 - 漢語多功能字庫 (香港中文大學)
   - <https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/>
 - 維基多語詞典
@@ -23,10 +24,10 @@
   - <https://www.chinesecj.com/cjdict/>
 - hkcards: 查倉頡 / 學倉頡 / 圖解拆字
   - <https://www.hkcards.com/>
+- 字統网 (漢字源、形、音、義)
+  - <https://zi.tools/>
 - 倉頡輸入法教科書 (Wikibooks)
   - [zh.m.wikibooks.org/zh-hant/倉頡輸入法](https://zh.m.wikibooks.org/zh-hant/%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95)
-- 繁簡轉換王
-  - <https://convert.tw/>
 
 #### 英語詞典
 
