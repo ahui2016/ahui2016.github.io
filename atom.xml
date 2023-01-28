@@ -16,7 +16,7 @@
     <link ref="alternate" href="https://blog.ai42.cc/bookmarks.html" />
     <id>bookmarks</id>
     <published>1970-11-01 20:36:47+08:00</published>
-    <updated>2023-01-23 21:07:07+08:00</updated>
+    <updated>2023-01-28 09:31:58+08:00</updated>
     <author><name>阿輝</name></author>
     <content type="text"># Bookmarks
 
@@ -34,6 +34,32 @@
 
 - 重編國語辭典修訂本等 (國家教育研究院)
   - &lt;https://www.naer.edu.tw/PageMenu?...</content>
+  </entry>
+  
+  <entry>
+    <title>iPelago</title>
+    <link ref="alternate" href="https://blog.ai42.cc/ipelago-000.html" />
+    <id>ipelago-000</id>
+    <published>2022-10-14 09:38:39+08:00</published>
+    <updated>2023-01-28 09:31:58+08:00</updated>
+    <author><name>阿輝</name></author>
+    <content type="text"># iPelago
+
+這裡是我的獨立微網誌。
+
+&gt; 我的微網誌名稱是 iPelago, 源於群島的英文 archipelago.  
+&gt; 個人部落格/獨立微網誌很像一座座孤島, 同時也像一個天然的去中心化系統。
+
+
+#### 2023-01-16
+
+`#TODO` R2-Gallery 的代碼我還是不滿意, 嫌繁瑣.  
+打算放棄使用 [Click](click.palletsprojects.com),
+改成鬆散腳本, 這樣更容易使每個腳本保持簡單.
+
+#### 2023-01-15
+
+王菲 1994 演...</content>
   </entry>
   
   <entry>
@@ -60,33 +86,6 @@
 《花嫁》前半部分我很不喜欢，看到七海被骗到酒店，
 小哥建议她用洗澡来拖延时间，她还真的脱了衣服洗澡的时候，
 我...</content>
-  </entry>
-  
-  <entry>
-    <title>iPelago</title>
-    <link ref="alternate" href="https://blog.ai42.cc/ipelago-000.html" />
-    <id>ipelago-000</id>
-    <published>2022-10-14 09:38:39+08:00</published>
-    <updated>2023-01-23 21:07:07+08:00</updated>
-    <author><name>阿輝</name></author>
-    <content type="text"># iPelago
-
-這裡是我的獨立微網誌。
-
-&gt; 我的微網誌名稱是 iPelago, 源於群島的英文 archipelago.  
-&gt; 個人部落格/獨立微網誌很像一座座孤島, 同時也像一個天然的去中心化系統。
-
-
-#### 2022-12-30
-
-我覺得倉頡比五筆更易學, 主要是字根少.
-五筆有 234 個字根需要死記硬背, 而倉頡只有約 100 個字根.
-
-#### 2022-12-28
-
-連續幾天未編程, 未工作, 以睡覺為主,
-每天學一點倉頡輪入法. 今天終於有工作來.
-炫打算明天上班, 我可能去麥...</content>
   </entry>
   
   <entry>
