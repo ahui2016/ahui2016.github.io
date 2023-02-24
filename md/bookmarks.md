@@ -57,12 +57,20 @@ https://tw.amazingtalker.com/blog/zh-tw/zh-eng/4250/
 - 臺灣女人 (國立臺灣歷史博物館)
   - <https://women.nmth.gov.tw/>
 
-#### Wikipedia
+#### 百科全書/圖書館
 
+- Encyclopædia Britannica (大英百科全書)
+  - <https://www.britannica.com/t>
 - 文言維基大典
   - <https://zh-classical.wikipedia.org/>
 - 粵文維基百科
   - <https://zh-yue.wikipedia.org/>
+- 維基文庫: 自由的圖書館
+  - <https://zh.wikisource.org/zh-hant/>
+- 中國哲學書電子化計劃
+  - <https://ctext.org/zh>
+- 書格: 數字古籍圖書館
+  - <https://new.shuge.org/>
 
 #### Programming
 

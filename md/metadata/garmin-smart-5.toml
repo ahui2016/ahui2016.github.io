@@ -1,26 +1,26 @@
 # 本文件采用 TOML 格式 https://toml.io/
 
 # 文章标题 [请勿手动修改，会自动获取]
-title = '''iPelago'''
+title = '''智能手环 GarminSmart5'''
 
 # 文章作者 [通常留空，自动等同于博客作者]
 author = ''''''
 
 # 文章创建时间
-ctime = '2022-10-14 09:38:39+08:00'
+ctime = '2023-02-23 08:58:38+08:00'
 
 # 文章修改时间
-mtime = '2023-01-28 09:31:58+08:00'
+mtime = '2023-02-23 09:56:05+08:00'
 
 # sha1, 用来判断文章内容有无变更 [请勿手动修改]
-checksum = '488fdabdcd22eefeaa362612ed8afd6ca64f690a'
+checksum = '337f0220a60fe63be20322630f9bdfaa8eec3d19'
 
 # 是否忽略文章 (true/false)
 # 被忽略的文章不出现在最近列表、索引列表里，但仍会出现在 RSS 里
-ignored = true
+ignored = false
 
 # HTML中的图片的最大宽度 (留空表示跟随总设定)
-img_width = ''
+img_width = '50%'
 
 # 是否执行自动替换 (0:跟随总设定, -1:不执行, 1:执行)
 replace = 0
@@ -31,5 +31,11 @@ replace = 0
 #   [ '''../output/pics/def.jpg''', '''https://example.com/def.jpg''' ],
 # ]
 pairs = [
+
+  ['''../output/pics/garminsmart5-1.jpg''','''https://vip2.loli.io/2023/02/24/8Zlsr9UCRImBxPg.jpg''',],
+
+  ['''../output/pics/garminsmart5-2.jpg''','''https://vip2.loli.io/2023/02/24/OBR6d2gaGDEFsxr.jpg''',],
+
+  ['''../output/pics/garminsmart5-3.jpg''','''https://vip2.loli.io/2023/02/24/xlJivRdjECFZuIT.jpg''',],
 
 ]
