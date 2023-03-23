@@ -1,6 +1,6 @@
 # iPelago
 
-返回微博客首页 [&lt;&lt; microblog](ipelago-000.html)
+返回微網誌首页 [&lt;&lt; microblog](ipelago-000.html)
 
 #### 2022-04-21
 
