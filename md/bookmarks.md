@@ -1,7 +1,6 @@
 # Bookmarks
 
-
-#### 音頻
+## 音頻
 
 - Sao.fm 臺灣電台
   - <https://sao.fm/station-tag/taiwan>
@@ -10,7 +9,7 @@
 - Sao.fm 視頻
   - <https://sao.fm/girl>
 
-#### 漢語詞典 (簡繁轉換, 倉頡碼)
+## 漢語詞典 (簡繁轉換, 倉頡碼)
 
 - 重編國語辭典修訂本等 (國家教育研究院)
   - <https://www.naer.edu.tw/PageMenu?fid=44>
@@ -29,9 +28,7 @@
 - 倉頡輸入法教科書 (Wikibooks)
   - [zh.m.wikibooks.org/zh-hant/倉頡輸入法](https://zh.m.wikibooks.org/zh-hant/%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E6%B3%95)
 
-#### 英語詞典
-
-https://tw.amazingtalker.com/blog/zh-tw/zh-eng/4250/
+## 英語詞典
 
 - 林語堂《當代漢英詞典》電子版 (香港中文大學)
   - <http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/>
@@ -42,12 +39,18 @@ https://tw.amazingtalker.com/blog/zh-tw/zh-eng/4250/
 - Longman English Dictionary Online 朗文字典
   - <https://www.ldoceonline.com/>
 
-#### 繁體中文資訊網站
+## 繁體中文資訊網站
 
+- 批踢踢 (Ptt)
+  - <https://www.ptt.cc/index.html>
+  - <https://www.ptt.cc/bbs/index.html>
+  - <https://www.pttweb.cc/>
 - Yahoo奇摩搜尋
   - <https://tw.search.yahoo.com/>
 - Mobile01
   - <https://www.mobile01.com/>
+- 痞客邦
+  - <https://streamtopic.pixnet.net/>
 - HiNet隨意窩
   - <https://xuite.net/>
 - HiNet生活誌
@@ -57,7 +60,7 @@ https://tw.amazingtalker.com/blog/zh-tw/zh-eng/4250/
 - 臺灣女人 (國立臺灣歷史博物館)
   - <https://women.nmth.gov.tw/>
 
-#### 百科全書/圖書館
+## 百科全書/圖書館
 
 - Encyclopædia Britannica (大英百科全書)
   - <https://www.britannica.com/t>
@@ -72,7 +75,7 @@ https://tw.amazingtalker.com/blog/zh-tw/zh-eng/4250/
 - 書格: 數字古籍圖書館
   - <https://new.shuge.org/>
 
-#### Programming
+## Programming
 
 - Golang 重要學習資料
   - <https://go.dev/doc/>
@@ -82,7 +85,7 @@ https://tw.amazingtalker.com/blog/zh-tw/zh-eng/4250/
   - <https://quickref.me/>
   - 中文版 <https://wangchujiang.com/reference/>
 
-#### Micro-blogging 微網誌
+## Micro-blogging 微網誌
 
 - Nicheless Micro-blogging Platform
   - <https://nicheless.blog/explore>

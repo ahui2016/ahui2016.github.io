@@ -12,6 +12,30 @@
 
   
   <entry>
+    <title>Bookmarks</title>
+    <link ref="alternate" href="https://blog.ai42.cc/bookmarks.html" />
+    <id>bookmarks</id>
+    <published>1970-11-01 20:36:47+08:00</published>
+    <updated>2023-03-26 09:16:06+08:00</updated>
+    <author><name>阿輝</name></author>
+    <content type="text"># Bookmarks
+
+## 音頻
+
+- Sao.fm 臺灣電台
+  - &lt;https://sao.fm/station-tag/taiwan&gt;
+- Sao.fm 香港電台
+  - &lt;https://sao.fm/station-tag/hongkong&gt;
+- Sao.fm 視頻
+  - &lt;https://sao.fm/girl&gt;
+
+## 漢語詞典 (簡繁轉換, 倉頡碼)
+
+- 重編國語辭典修訂本等 (國家教育研究院)
+  - &lt;https://www.naer.edu.tw/PageMenu?fid=4...</content>
+  </entry>
+  
+  <entry>
     <title>iPelago</title>
     <link ref="alternate" href="https://blog.ai42.cc/ipelago-001.html" />
     <id>ipelago-001</id>
@@ -83,31 +107,6 @@ Apple TV+ 的 _Severance_ 非常精彩，拍得很认真，很有内涵，不媚
 我就是, 日常工作不得不久坐, 运动量极少.
 
 !...</content>
-  </entry>
-  
-  <entry>
-    <title>Bookmarks</title>
-    <link ref="alternate" href="https://blog.ai42.cc/bookmarks.html" />
-    <id>bookmarks</id>
-    <published>1970-11-01 20:36:47+08:00</published>
-    <updated>2023-01-28 09:31:58+08:00</updated>
-    <author><name>阿輝</name></author>
-    <content type="text"># Bookmarks
-
-
-#### 音頻
-
-- Sao.fm 臺灣電台
-  - &lt;https://sao.fm/station-tag/taiwan&gt;
-- Sao.fm 香港電台
-  - &lt;https://sao.fm/station-tag/hongkong&gt;
-- Sao.fm 視頻
-  - &lt;https://sao.fm/girl&gt;
-
-#### 漢語詞典 (簡繁轉換, 倉頡碼)
-
-- 重編國語辭典修訂本等 (國家教育研究院)
-  - &lt;https://www.naer.edu.tw/PageMenu?...</content>
   </entry>
   
   <entry>
