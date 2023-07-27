@@ -13,10 +13,14 @@
 
 - 重編國語辭典修訂本等 (國家教育研究院)
   - <https://www.naer.edu.tw/PageMenu?fid=44>
+  - <https://dict.revised.moe.edu.tw/search.jsp>
   - 異體字字典 <https://dict.variants.moe.edu.tw/variants/rbt/home.do>
   - 成語典 <https://dict.idioms.moe.edu.tw/search.jsp>
 - 漢語多功能字庫 (香港中文大學)
   - <https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/>
+- 香港小學學習字詞表 Hong Kong Chinese Lexical Lists for Primary Learning
+  - <https://www.edbchinese.hk/lexlist/>
+  - <https://www.edbchinese.hk/lexlist_ch/index.jsp> (可查筆順和粵語讀音, 非常實用)
 - 維基多語詞典
   - <https://zh.wiktionary.org/zh-hant/>
 - 倉頡大字典

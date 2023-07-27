@@ -10,17 +10,17 @@ author = ''''''
 ctime = '2022-10-14 09:38:39+08:00'
 
 # 文章修改时间
-mtime = '2023-03-23 10:39:45+08:00'
+mtime = '2023-07-15 14:28:10+08:00'
 
 # sha1, 用来判断文章内容有无变更 [请勿手动修改]
-checksum = 'dcdc9b6d50b4a1820d80f856e60d7808a14b7d2d'
+checksum = '1acceebec7cc1991012378f1b4f078c6ce381370'
 
 # 是否忽略文章 (true/false)
 # 被忽略的文章不出现在最近列表、索引列表里，但仍会出现在 RSS 里
 ignored = true
 
 # HTML中的图片的最大宽度 (留空表示跟随总设定)
-img_width = ''
+img_width = '50%'
 
 # 是否执行自动替换 (0:跟随总设定, -1:不执行, 1:执行)
 replace = 0
@@ -31,5 +31,7 @@ replace = 0
 #   [ '''../output/pics/def.jpg''', '''https://example.com/def.jpg''' ],
 # ]
 pairs = [
+
+  ['''../output/pics/huangyou.jpg''','''https://vip2.loli.io/2023/05/09/PjuMFDplVkireUh.jpg''',],
 
 ]
