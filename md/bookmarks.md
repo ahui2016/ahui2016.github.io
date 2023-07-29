@@ -78,6 +78,8 @@
   - <https://ctext.org/zh>
 - 書格: 數字古籍圖書館
   - <https://new.shuge.org/>
+- 古籍與特藏文獻資源 - 國家圖書館
+  - <https://rbook.ncl.edu.tw/NCLSearch/>
 
 ## Programming
 
