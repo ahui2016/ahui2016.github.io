@@ -67,7 +67,7 @@
 ## 百科全書/圖書館
 
 - Encyclopædia Britannica (大英百科全書)
-  - <https://www.britannica.com/t>
+  - <https://www.britannica.com/>
 - 文言維基大典
   - <https://zh-classical.wikipedia.org/>
 - 粵文維基百科
