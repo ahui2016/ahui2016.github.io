@@ -1,0 +1,27 @@
+body {
+    max-width: 680px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+footer {
+    font-size: small;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+p {
+    line-height: 1.1;
+    margin-bottom: 25px;
+}
+a {
+    text-decoration: none;
+}
+small {
+    color: gray;
+}
+img {
+    width: 200px;
+}
+.align-right {
+    text-align: right;
+}
