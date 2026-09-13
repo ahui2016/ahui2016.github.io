@@ -16,6 +16,12 @@ p {
 a {
     text-decoration: none;
 }
+abbr {
+    color: gray;
+    cursor: default;
+    padding-left: 5px;
+    padding-right: 5px;
+}
 small {
     color: gray;
 }
